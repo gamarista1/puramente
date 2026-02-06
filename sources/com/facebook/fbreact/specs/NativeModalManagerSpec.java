@@ -1,0 +1,27 @@
+package com.facebook.fbreact.specs;
+
+import B7.a;
+import com.facebook.react.bridge.ReactApplicationContext;
+import com.facebook.react.bridge.ReactContextBaseJavaModule;
+import com.facebook.react.bridge.ReactMethod;
+import com.facebook.react.turbomodule.core.interfaces.TurboModule;
+
+public abstract class NativeModalManagerSpec extends ReactContextBaseJavaModule implements TurboModule {
+    public static final String NAME = "ModalManager";
+
+    public NativeModalManagerSpec(ReactApplicationContext reactApplicationContext) {
+        super(reactApplicationContext);
+    }
+
+    @a
+    @ReactMethod
+    public abstract void addListener(String str);
+
+    public String getName() {
+        return NAME;
+    }
+
+    @a
+    @ReactMethod
+    public abstract void removeListeners(double d10);
+}

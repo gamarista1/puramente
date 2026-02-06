@@ -1,0 +1,4 @@
+package nb;
+
+interface m {
+}

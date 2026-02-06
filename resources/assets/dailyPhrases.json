@@ -1,0 +1,3407 @@
+[
+  {
+    "author": "Rumi",
+    "phrase": {
+      "es": "Ayer era inteligente, por lo que quería cambiar el mundo. Hoy soy sabio, por lo que me quiero cambiar a mí mismo.",
+      "en": "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F01_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F01.jpg"
+  },
+  {
+    "author": "Eleanor Roosevelt",
+    "phrase": {
+      "es": "Haz una cosa al día que te de miedo.",
+      "en": "Do one thing every day that scares you."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F02_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F02.jpg"
+  },
+  {
+    "author": "Paulo Coelho",
+    "phrase": {
+      "es": "Cuando amamos, nos esforzamos por ser mejor de lo que somos y todo a nuestro alrededor también se vuelve mejor.",
+      "en": "When we love, we always strive to become better than we are. When we strive to become better than we are, everything around us becomes better too."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F03_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F03.jpg"
+  },
+  {
+    "author": "Eckhart Tolle",
+    "phrase": {
+      "es": "El pasado no tiene poder sobre el momento presente.",
+      "en": "The past has no power over the present moment."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F04_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F04.jpg"
+  },
+  {
+    "author": {
+      "es": "Marco Aurelio",
+      "en": "Marcus Aurelius"
+    },
+    "phrase": {
+      "es": "Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad.",
+      "en": "Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F05_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F05.jpg"
+  },
+  {
+    "author": "Rumi",
+    "phrase": {
+      "es": "La herida es el lugar por donde entra la luz.",
+      "en": "The wound is the place where the Light enters you."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F06_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F06.jpg"
+  },
+  {
+    "author": "Gandhi",
+    "phrase": {
+      "es": "Vive como si fueras a morir mañana. Aprende como si fueras a vivir siempre.",
+      "en": "Live as if you were to die tomorrow. Learn as if you were to live forever."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F07_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F07.jpg"
+  },
+  {
+    "author": "Albert Einstein",
+    "phrase": {
+      "es": "Sólo hay dos formas de vivir tu vida: una es como si no existieran los milagros y la otra es como si todo fuera un milagro.",
+      "en": "There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F08_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F08.jpg"
+  },
+  {
+    "author": {
+      "es": "Confucio",
+      "en": "Confucius"
+    },
+    "phrase": {
+      "es": "No importa que tan lento vayas siempre y cuando no te detengas.",
+      "en": "It does not matter how slowly you go as long as you do not stop."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F09_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F09.jpg"
+  },
+  {
+    "author": "Pablo d'Ors",
+    "phrase": {
+      "es": "No es en absoluto necesario juzgar, basta observar; la simple observación es ya eficaz para el cambio.",
+      "en": "It is not necessary at all to judge, it's enough to observe; simple observation is already effective for change."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F10_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F10.jpg"
+  },
+  {
+    "author": "Sun Tzu",
+    "phrase": {
+      "es": "La mejor victoria es vencer sin combatir.",
+      "en": "The greatest victory is that which requires no battle."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F11_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F11.jpg"
+  },
+  {
+    "author": "Soren Kierkegaard",
+    "phrase": {
+      "es": "La vida no es un problema que tiene que ser resuelto, sino una realidad que debe ser experimentada.",
+      "en": "Life is not a problem to be solved, but a reality to be experienced."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F12_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F12.jpg"
+  },
+  {
+    "author": "Lao Tzu",
+    "phrase": {
+      "es": "Deja de pensar y termina con tus problemas.",
+      "en": "Stop thinking, and end your problems."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F13_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F13.jpg"
+  },
+  {
+    "author": "Rumi",
+    "phrase": {
+      "es": "Lo que buscas te está buscando a ti.",
+      "en": "What you seek is seeking you."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F14_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F14.jpg"
+  },
+  {
+    "author": {
+      "es": "Marco Aurelio",
+      "en": "Marcus Aurelius"
+    },
+    "phrase": {
+      "es": "Comenzar es la mitad del trabajo, comienza nuevamente con la mitad restante, y habrás terminado.",
+      "en": "The beginning is half of the whole, begin again with the half that's left, and you will have finished."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F15_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F15.jpg"
+  },
+  {
+    "author": "Viktor Frankl",
+    "phrase": {
+      "es": "Entre el estímulo y la respuesta hay un espacio. En ese espacio tenemos el poder de elegir nuestra respuesta. En nuestra respuesta se encuentra nuestro crecimiento y nuestra libertad.",
+      "en": "Between stimulus and response, there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F16_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F16.jpg"
+  },
+  {
+    "author": "Matthieu Ricard",
+    "phrase": {
+      "es": "Querer resultados inmediatos es propio de las mentes inestables o perezosas.",
+      "en": "Wanting immediate results is typical of unstable or lazy minds."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F17_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F17.jpg"
+  },
+  {
+    "author": "Lao Tzu",
+    "phrase": {
+      "es": "La pérdida no es tan mala como querer más.",
+      "en": "Loss is not as bad as wanting more."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F18_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F18.jpg"
+  },
+  {
+    "author": {
+      "es": "Confucio",
+      "en": "Confucius"
+    },
+    "phrase": {
+      "es": "Todo tiene belleza, pero no todo el mundo puede verla.",
+      "en": "Everything has beauty, but not everyone sees it."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F19_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F19.jpg"
+  },
+  {
+    "author": "Sun Tzu",
+    "phrase": {
+      "es": "Ganará quien sabe cuándo luchar y cuándo no luchar.",
+      "en": "He will win who knows when to fight and when not to fight."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F20_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F20.jpg"
+  },
+  {
+    "author": "Ralph Waldo Emerson",
+    "phrase": {
+      "es": "La marca invariable de la sabiduría es ver lo milagroso en lo común.",
+      "en": "The invariable mark of wisdom is to see the miraculous in the common."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F21_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F21.jpg"
+  },
+  {
+    "author": "Viktor Frankl",
+    "phrase": {
+      "es": "El éxito, como la felicidad, es el efecto secundario inesperado de la dedicación personal a una causa mayor que uno mismo.",
+      "en": "Success, like happiness, cannot be pursued; it must ensue, and it only does so as the unintended side effect of one's personal dedication to a cause greater than oneself."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F22_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F22.jpg"
+  },
+  {
+    "author": "Jack Kornfield",
+    "phrase": {
+      "es": "Si tu compasión no te incluye a ti mismo, está incompleta.",
+      "en": "If your compassion does not include yourself, it is incomplete."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F23_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F23.jpg"
+  },
+  {
+    "author": "Thich Nhat Hanh",
+    "phrase": {
+      "es": "No hay un camino a la felicidad, la felicidad es el camino.",
+      "en": "There is no way to happiness, happiness is the way."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F24_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F24.jpg"
+  },
+  {
+    "author": "Daniel Goleman",
+    "phrase": {
+      "es": "Tu enfoque determina tu realidad.",
+      "en": "Your focus determines your reality."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F25_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F25.jpg"
+  },
+  {
+    "author": "Gandhi",
+    "phrase": {
+      "es": "Si quieres cambiar al mundo, cámbiate a ti mismo.",
+      "en": "If you want to change the world, start with yourself."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F26_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F26.jpg"
+  },
+  {
+    "author": "Soren Kierkegaard",
+    "phrase": {
+      "es": "La vida sólo puede ser entendida mirando hacia atrás, pero tiene que ser vivida hacia delante.",
+      "en": "Life can only be understood backwards; but it must be lived forwards."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F27_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F27.jpg"
+  },
+  {
+    "author": {
+      "es": "Confucio",
+      "en": "Confucius"
+    },
+    "phrase": {
+      "es": "Aprender sin reflexionar es malgastar la energía.",
+      "en": "Learning without reflection is a waste of energy."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F28_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F28.jpg"
+  },
+  {
+    "author": "Lao Tzu",
+    "phrase": {
+      "es": "Quien no es feliz con poco, no lo será con mucho.",
+      "en": "He who is not content with little, will not be content with much."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F29_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F29.jpg"
+  },
+  {
+    "author": "Rumi",
+    "phrase": {
+      "es": "Tu tarea no es buscar el amor, sino encontrar dentro de ti las barreras que te separan de él.",
+      "en": "Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F30_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F30.jpg"
+  },
+  {
+    "author": "Jon Kabat-Zinn",
+    "phrase": {
+      "es": "No trates de expulsar los pensamientos. Dales espacio, obsérvalos y déjalos ir.",
+      "en": "Don't try to get rid of the thoughts. Give them space, observe them, and let them go."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F31_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F31.jpg"
+  },
+  {
+    "author": "Thich Nhat Hanh",
+    "phrase": {
+      "es": "Los sentimientos van y vienen como las nubes en un cielo ventoso. La respiración consciente es mi ancla.",
+      "en": "Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F32_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F32.jpg"
+  },
+  {
+    "author": "Sun Tzu",
+    "phrase": {
+      "es": "Grandes resultados pueden ser conseguidos con pequeños esfuerzos.",
+      "en": "Great results can be achieved with small forces."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F33_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F33.jpg"
+  },
+  {
+    "author": "Ram Dass",
+    "phrase": {
+      "es": "Mientras más silencioso te vuelves, más puedes escuchar.",
+      "en": "The quieter you become, the more you can hear."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F34_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F34.jpg"
+  },
+  {
+    "author": "Pablo d'Ors",
+    "phrase": {
+      "es": "La meditación nos concentra, nos devuelve a casa, nos enseña a convivir con nuestro ser.",
+      "en": "Meditation helps us focus, it takes us back home, it teaches us to live with our being."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F35_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F35.jpg"
+  },
+  {
+    "author": "Charles Bukowski",
+    "phrase": {
+      "es": "¿Puedes recordar quién eras antes de que el mundo te dijera quién deberías ser?",
+      "en": "Can you remember who you were, before the world told you who you should be?"
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F36_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F36.jpg"
+  },
+  {
+    "author": "Jon Kabat-Zinn",
+    "phrase": {
+      "es": "No puedes detener las olas, pero puedes aprender a surfear.",
+      "en": "You can't stop the waves, but you can learn to surf."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F37_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F37.jpg"
+  },
+  {
+    "author": "Matthieu Ricard",
+    "phrase": {
+      "es": "Nuestra mente puede ser nuestro mejor amigo o nuestro peor enemigo; es la mente la que traduce las circunstancias externas en felicidad o desdicha.",
+      "en": "Our mind can be our best friend or our worst enemy; it is the mind that translates external circumstances into happiness or misery."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F38_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F38.jpg"
+  },
+  {
+    "author": "Pablo d'Ors",
+    "phrase": {
+      "es": "Hemos creído que nuestros problemas éramos nosotros, por eso nos cuesta tanto abandonarlos.",
+      "en": "We have believed that our problems were us, which is why it is so hard for us to let go of them."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F39_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F39.jpg"
+  },
+  {
+    "author": "Thich Nhat Hanh",
+    "phrase": {
+      "es": "Debes amar de forma que la persona a la que amas se sienta libre.",
+      "en": "You must love in such a way that the person you love feels free."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F40_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F40.jpg"
+  },
+  {
+    "author": "Eckhart Tolle",
+    "phrase": {
+      "es": "La principal causa de la infelicidad nunca es la situación, sino tus pensamientos sobre ella.",
+      "en": "The primary cause of unhappiness is never the situation but your thoughts about it."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F01_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F01.jpg"
+  },
+  {
+    "author": "Daniel Goleman",
+    "phrase": {
+      "es": "Adueñándose de nuestra atención, la tecnología entorpece nuestras relaciones.",
+      "en": "By seizing our attention, technology hampers our relationships."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F02_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F02.jpg"
+  },
+  {
+    "author": "Lao Tzu",
+    "phrase": {
+      "es": "El tiempo es algo creado. Decir “No tengo tiempo” es igual a decir “No quiero”.",
+      "en": "Time is a created thing. To say 'I don't have time' is like saying 'I don't want to'."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F03_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F03.jpg"
+  },
+  {
+    "author": {
+      "es": "Confucio",
+      "en": "Confucius"
+    },
+    "phrase": {
+      "es": "El mal no está en tener faltas, sino en no tratar de enmendarlas.",
+      "en": "The fault is not in having faults, but in not attempting to mend them."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F04_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F04.jpg"
+  },
+  {
+    "author": "Mooji",
+    "phrase": {
+      "es": "Lo que sea que venga, no lo rechaces. Cuando se vaya, no te aflijas.",
+      "en": "Whatever comes, don't push it away. When it goes, do not grieve."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F05_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F05.jpg"
+  },
+  {
+    "author": "Viktor Frankl",
+    "phrase": {
+      "es": "Vive como si estuvieras viviendo una segunda vez, y como si hubieras actuado mal la primera vez.",
+      "en": "Live as if you were living a second time, and as though you had acted wrongly the first time."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F06_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F06.jpg"
+  },
+  {
+    "author": "Eckhart Tolle",
+    "phrase": {
+      "es": "A veces dejar pasar las cosas es un acto de poder mucho mayor que obstinarte en mantenerlas.",
+      "en": "Sometimes letting things go is an act of far greater power than defending or hanging on."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F07_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F07.jpg"
+  },
+  {
+    "author": "Shunryu Suzuki",
+    "phrase": {
+      "es": "En la mente del principiante hay muchas posibilidades; pero en la del experto hay pocas.",
+      "en": "In the beginner's mind there are many possibilities, but in the expert's there are few."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F09_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F09.jpg"
+  },
+  {
+    "author": "Rumi",
+    "phrase": {
+      "es": "La belleza nos rodea, pero normalmente necesitamos andar en un jardín para saberlo.",
+      "en": "Beauty surrounds us, but we need to be walking in a garden to realize it."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F10_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F10.jpg"
+  },
+  {
+    "author": "Pablo d'Ors",
+    "phrase": {
+      "es": "Es absurdo condenar la ignorancia pasada desde la sabiduría presente.",
+      "en": "It is absurd to condemn past ignorance from present wisdom."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F11_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F11.jpg"
+  },
+  {
+    "author": "Matthieu Ricard",
+    "phrase": {
+      "es": "La razón última para meditar es transformarnos a nosotros mismos para poder transformar el mundo.",
+      "en": "The ultimate reason to meditate is to transform ourselves so we can transform the world."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F12_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F12.jpg"
+  },
+  {
+    "author": {
+      "es": "Marco Aurelio",
+      "en": "Marcus Aurelius"
+    },
+    "phrase": {
+      "es": "La única riqueza que conservarás para siempre es la riqueza que has obsequiado.",
+      "en": "The only wealth that you will keep forever is the wealth you have given away."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F13_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F13.jpg"
+  },
+  {
+    "author": {
+      "es": "Confucio",
+      "en": "Confucius"
+    },
+    "phrase": {
+      "es": "Estudia el pasado si quieres pronosticar el futuro.",
+      "en": "Study the past if you would define the future."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F14_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F14.jpg"
+  },
+  {
+    "author": "Thich Nhat Hanh",
+    "phrase": {
+      "es": "La meditación no es una evasión; es un encuentro sereno con la realidad.",
+      "en": "Meditation is not an evasion; it is a serene encounter with reality."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F15_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F15.jpg"
+  },
+  {
+    "author": "Joseph Campbell",
+    "phrase": {
+      "es": "Persigue tu felicidad y no tengas miedo, y las puertas se abrirán donde menos lo sospeches.",
+      "en": "Follow your bliss and don't be afraid, and doors will open where you didn't know they were going to be."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F16_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F16.jpg"
+  },
+  {
+    "author": "Eckhart Tolle",
+    "phrase": {
+      "es": "Tú no estás separado del todo. Eres uno con el sol, la tierra y el aire. Tú no tienes una vida, tú eres la vida.",
+      "en": "You are not separate from the whole. You are one with the sun, the earth, the air. You don't have a life. You are life."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F17_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F17.jpg"
+  },
+  {
+    "author": {
+      "es": "Anónimo",
+      "en": "Anonymous"
+    },
+    "phrase": {
+      "es": "No siempre necesitas un plan. A veces solo necesitas respirar, confiar, dejar ir y observar lo que sucede.",
+      "en": "You don't always need a plan. Sometimes you just need to breathe, trust, let go, and see what happens."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F19_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F19.jpg"
+  },
+  {
+    "author": "Paulo Coelho",
+    "phrase": {
+      "es": "El secreto de la vida es caer siete veces y levantarse ocho.",
+      "en": "The secret of life is to fall seven times and to get up eight times."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F20_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F20.jpg"
+  },
+  {
+    "author": "Lao Tzu",
+    "phrase": {
+      "es": "El que sabe, no habla; el que habla, no sabe.",
+      "en": "He who knows, does not speak; he who speaks, does not know."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F21_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F21.jpg"
+  },
+  {
+    "author": "Mooji",
+    "phrase": {
+      "es": "Tu necesidad de controlar la vida te controla a ti.",
+      "en": "Your need to control life controls you."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F22_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F22.jpg"
+  },
+  {
+    "author": "Adyashanti",
+    "phrase": {
+      "es": "No puedes volver atrás y cambiar tu pasado; sin embargo, puedes cambiar la forma en que tu mente está creando tu experiencia en el momento presente.",
+      "en": "You can't go back and change the past; however, you can change the way your mind is creating your experience in the present moment."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F23_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F23.jpg"
+  },
+  {
+    "author": "Alan Watts",
+    "phrase": {
+      "es": "Tratar de definirte es como tratar de morderte los dientes.",
+      "en": "Trying to define yourself is like trying to bite your own teeth."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F24_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F24.jpg"
+  },
+  {
+    "author": "Jiddu Krishnamurti",
+    "phrase": {
+      "es": "Uno nunca tiene miedo de lo desconocido; uno tiene miedo de que lo conocido llegue a su fin.",
+      "en": "One is never afraid of the unknown; one is afraid of the known coming to an end."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F25_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F25.jpg"
+  },
+  {
+    "author": "Ramana Maharshi",
+    "phrase": {
+      "es": "La reforma personal produce automáticamente la reforma social. Limítate a reformarte a ti mismo. El mundo se cuidará solo.",
+      "en": "Personal reform automatically brings about social reform. Just limit yourself to reforming yourself. The world will take care of itself."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F26_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F26.jpg"
+  },
+  {
+    "author": "Paramahansa Yogananda",
+    "phrase": {
+      "es": "Planta ahora semillas de optimismo y de amor, para recoger mañana frutos de alegría y de felicidad.",
+      "en": "Plant seeds of optimism and love now, to harvest fruits of joy and happiness tomorrow."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F27_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F27.jpg"
+  },
+  {
+    "author": "Nisargadatta Maharaj",
+    "phrase": {
+      "es": "Entre las orillas del dolor y el placer, fluye el río de la vida.",
+      "en": "Between the banks of pain and pleasure, the river of life flows."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F28_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F28.jpg"
+  },
+  {
+    "author": "Paulo Coelho",
+    "phrase": {
+      "es": "Eres lo que crees que eres.",
+      "en": "You are what you believe yourself to be."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F29_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F29.jpg"
+  },
+  {
+    "author": {
+      "es": "Marco Aurelio",
+      "en": "Marcus Aurelius"
+    },
+    "phrase": {
+      "es": "Lo que no es útil para la colmena, no es útil para la abeja.",
+      "en": "What is not useful for the hive is not useful for the bee."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F31_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F31.jpg"
+  },
+  {
+    "author": "Eckhart Tolle",
+    "phrase": {
+      "es": "Cada queja es una pequeña historia que la mente cree totalmente.",
+      "en": "Every complaint is a little story the mind makes up that it completely believes."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F32_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F32.jpg"
+  },
+  {
+    "author": "Matthieu Ricard",
+    "phrase": {
+      "es": "Las emociones no son duraderas, por lo que existe la posibilidad de un cambio.",
+      "en": "Emotions are not durable, so there is the possibility for change."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F33_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F33.jpg"
+  },
+  {
+    "author": "Michel de Montaigne",
+    "phrase": {
+      "es": "El que teme padecer, padece ya lo que teme.",
+      "en": "He who fears he will suffer, already suffers because he fears."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F34_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F34.jpg"
+  },
+  {
+    "author": "Pema Chödrön",
+    "phrase": {
+      "es": "Lo que haces por tu persona, también lo haces por los demás, y lo que haces por los demás, lo haces por ti.",
+      "en": "What you do for yourself, you're doing for others, and what you do for others, you're doing for yourself."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F35_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F35.jpg"
+  },
+  {
+    "author": "Walter Riso",
+    "phrase": {
+      "es": "Nada es tuyo, la vida te lo alquila, te lo presta para que lo disfrutes mientras lo tienes.",
+      "en": "Nothing belongs to you, life rents it to you, it lends it to you so you can enjoy it while you have it."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F36_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F36.jpg"
+  },
+  {
+    "author": "Alan Watts",
+    "phrase": {
+      "es": "Eres una función de lo que todo el universo está haciendo, de la misma manera en que una ola es una función de lo que todo el océano está haciendo.",
+      "en": "You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F37_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F37.jpg"
+  },
+  {
+    "author": "Lao Tzu",
+    "phrase": {
+      "es": "La naturaleza no se apresura, sin embargo todo se lleva a cabo.",
+      "en": "Nature does not hurry, yet everything is accomplished."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F38_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F38.jpg"
+  },
+  {
+    "author": "Gandhi",
+    "phrase": {
+      "es": "La felicidad es cuando lo que piensas, dices y haces están en armonía.",
+      "en": "Happiness is when what you think, what you say, and what you do are in harmony."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F39_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F39.jpg"
+  },
+  {
+    "author": {
+      "es": "Confucio",
+      "en": "Confucius"
+    },
+    "phrase": {
+      "es": "Si ya sabes lo que tienes que hacer y no lo haces entonces estás peor que antes.",
+      "en": "If you know what you have to do and you don't do it then you are worse off than before."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F40_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F40.jpg"
+  },
+  {
+    "author": "Mooji",
+    "phrase": {
+      "es": "Los sentimientos son solo visitantes, déjalos ir y venir.",
+      "en": "Feelings are just visitors, let them come and go."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F01_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F01.jpg"
+  },
+  {
+    "author": "Carl Jung",
+    "phrase": {
+      "es": "No debemos pretender comprender el mundo sólo a través del intelecto. El juicio del intelecto es sólo parte de la verdad.",
+      "en": "We should not pretend to understand the world only by the intellect. The judgment of the intellect is only a part of the truth."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F02_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F02.jpg"
+  },
+  {
+    "author": "Sakya Pandita",
+    "phrase": {
+      "es": "El necio proclama sus cualidades. El sabio las conserva en secreto.",
+      "en": "The fool proclaims his qualities. The wise conceal them."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F03_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F03.jpg"
+  },
+  {
+    "author": "Jiddu Krishnamurti",
+    "phrase": {
+      "es": "La habilidad de observar sin evaluar es la forma más alta de inteligencia.",
+      "en": "The ability to observe without evaluating is the highest form of intelligence."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F04_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F04.jpg"
+  },
+  {
+    "author": "Nisargadatta Maharaj",
+    "phrase": {
+      "es": "El amor es el rechazo a separar, a hacer distinciones.",
+      "en": "Love says 'I am everything.' Wisdom says 'I am nothing.' Between the two, my life flows."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F05_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F05.jpg"
+  },
+  {
+    "author": "Eckhart Tolle",
+    "phrase": {
+      "es": "Todos los artistas verdaderos, lo sepan o no, crean desde un lugar de no-mente, desde la quietud interior.",
+      "en": "All true artists, whether they know it or not, create from a place of no-mind, from inner stillness."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F06_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F06.jpg"
+  },
+  {
+    "author": "Joe Dispenza",
+    "phrase": {
+      "es": "Un recuerdo sin la carga emocional se llama sabiduría.",
+      "en": "A memory without the emotional charge is called wisdom."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F08_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F08.jpg"
+  },
+  {
+    "author": {
+      "es": "Marco Aurelio",
+      "en": "Marcus Aurelius"
+    },
+    "phrase": {
+      "es": "No obres como si fueras a vivir mil años; obra como si el fin estuviera muy cerca.",
+      "en": "Live as if you were to die tomorrow. Learn as if you were to live forever."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F09_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F09.jpg"
+  },
+  {
+    "author": "Carl Jung",
+    "phrase": {
+      "es": "Eres lo que haces, no lo que dices que vas a hacer.",
+      "en": "You are what you do, not what you say you'll do."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F10_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F10.jpg"
+  },
+  {
+    "author": "Emmanuel Carrère",
+    "phrase": {
+      "es": "La meditación es calmar las fluctuaciones de la mente. Primero observa tu respiración, luego observa tus sensaciones, y finalmente observa tus pensamientos.",
+      "en": "Meditation is calming the fluctuations of the mind. First observe your breath, then observe your sensations, and finally observe your thoughts."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F11_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F11.jpg"
+  },
+  {
+    "author": "Walter Riso",
+    "phrase": {
+      "es": "Someterte al “qué dirán” es una forma de esclavitud socialmente aceptada.",
+      "en": "Submitting to 'what will they say' is a form of socially accepted slavery."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F12_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F12.jpg"
+  },
+  {
+    "author": {
+      "es": "Marco Aurelio",
+      "en": "Marcus Aurelius"
+    },
+    "phrase": {
+      "es": "En ninguna parte puede hallar el hombre un retiro tan apacible y tranquilo como en la intimidad de su alma.",
+      "en": "Nowhere can a man find a quieter or more untroubled retreat than in his own soul."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F13_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F13.jpg"
+  },
+  {
+    "author": "Ralph Waldo Emerson",
+    "phrase": {
+      "es": "La gente no parece darse cuenta de que su opinión del mundo es también una confesión de su carácter.",
+      "en": "People seem not to see that their opinion of the world is also a confession of character."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F14_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F14.jpg"
+  },
+  {
+    "author": {
+      "es": "Epicteto",
+      "en": "Epictetus"
+    },
+    "phrase": {
+      "es": "La riqueza no consiste en tener grandes posesiones, sino en tener pocos deseos.",
+      "en": "Wealth consists not in having great possessions, but in having few wants."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F15_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F15.jpg"
+  },
+  {
+    "author": "Emmanuel Carrère",
+    "phrase": {
+      "es": "La meditación consiste en examinar quienes somos realmente, ese magma que llamamos identidad.",
+      "en": "Meditation consists of examining who we really are, that magma we call identity."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F16_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F16.jpg"
+  },
+  {
+    "author": {
+      "es": "Confucio",
+      "en": "Confucius"
+    },
+    "phrase": {
+      "es": "Cuando el objetivo te parezca difícil, no cambies de objetivo; busca un nuevo camino para llegar a él.",
+      "en": "When the goal seems difficult, don't change the goal; look for a new path to get there."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F17_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F17.jpg"
+  },
+  {
+    "author": "Jiddu Krishnamurti",
+    "phrase": {
+      "es": "Solo cuando la mente está libre de ideas y creencias puede actuar correctamente.",
+      "en": "Only when the mind is free from ideas and beliefs can it act correctly."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F18_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F18.jpg"
+  },
+  {
+    "author": "James Allen",
+    "phrase": {
+      "es": "La tranquilidad de la mente es una de las joyas hermosas de la sabiduría.",
+      "en": "Calmness of mind is one of the beautiful jewels of wisdom."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F19_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F19.jpg"
+  },
+  {
+    "author": "Carl Jung",
+    "phrase": {
+      "es": "El encuentro de dos personas es como el contacto de dos sustancias químicas: si hay alguna reacción, ambas se transforman.",
+      "en": "The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F20_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F20.jpg"
+  },
+  {
+    "author": "Jiddu Krishnamurti",
+    "phrase": {
+      "es": "El amor se brinda a sí mismo tal como una flor da su perfume.",
+      "en": "Love gives itself as a flower gives its fragrance."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F21_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F21.jpg"
+  },
+  {
+    "author": "Tony Robbins",
+    "phrase": {
+      "es": "Pregúntate, ¿en qué clase de persona tendré que convertirme para alcanzar lo que deseo?",
+      "en": "Ask yourself, what kind of person will I have to become in order to achieve what I want?"
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F22_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F22.jpg"
+  },
+  {
+    "author": "Paramahansa Yogananda",
+    "phrase": {
+      "es": "Si quieres estar triste nadie en el mundo podrá hacerte feliz. Pero si decides ser feliz nadie ni nada podrá quitarte la felicidad.",
+      "en": "If you want to be sad, no one in the world can make you happy. But if you decide to be happy, no one and nothing can take your happiness away."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F23_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F23.jpg"
+  },
+  {
+    "author": "Michel de Montaigne",
+    "phrase": {
+      "es": "Cuando bailo, bailo. Cuando duermo duermo. Cuando camino por un bosque, si mi pensamiento se distrae, lo conduzco de nuevo al camino. Hacia la belleza de mi soledad.",
+      "en": "When I dance, I dance; when I sleep, I sleep. When I walk in a forest, if my thought strays, I lead it back to the path. Towards the beauty of my solitude."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F24_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F24.jpg"
+  },
+  {
+    "author": "Emmanuel Carrère",
+    "phrase": {
+      "es": "Los pensamientos no son ni verdaderos ni falsos, ni buenos ni malos: son microsucesos psíquicos, burbujas en la superficie de la conciencia.",
+      "en": "Thoughts are neither true nor false, neither good nor bad: they are psychic micro-events, bubbles on the surface of consciousness."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F25_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F25.jpg"
+  },
+  {
+    "author": "Tony Robbins",
+    "phrase": {
+      "es": "Hay una gran diferencia entre el éxito para ser feliz y el feliz esfuerzo para tener éxito. Intenta vivir todos los días plenamente, aprovecha hasta la última gota de alegría que te ofrezca cada momento.",
+      "en": "There's a huge difference between success to be happy and the happy effort for success. Try to live every day fully, enjoy every last drop of joy that each moment offers you."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F26_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F26.jpg"
+  },
+  {
+    "author": "Deepak Chopra",
+    "phrase": {
+      "es": "El éxito viene cuando las personas actúan juntas; el fracaso tiende a ocurrir en soledad.",
+      "en": "Success comes when people act together; failure tends to happen alone."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F27_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F27.jpg"
+  },
+  {
+    "author": {
+      "es": "Epicteto",
+      "en": "Epictetus"
+    },
+    "phrase": {
+      "es": "Cualquier persona capaz de molestarte se convierte en tu maestro; alguien puede molestarte solo cuando te permites ser molestado por él.",
+      "en": "Anyone who is able to upset you becomes your master; someone can upset you only when you allow yourself to be upset by them."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F28_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F28.jpg"
+  },
+  {
+    "author": "Pema Chödrön",
+    "phrase": {
+      "es": "La compasión hacia los demás comienza con la bondad hacia nosotros mismos.",
+      "en": "Compassion for others begins with kindness to ourselves."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F29_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F29.jpg"
+  },
+  {
+    "author": "Tony Robbins",
+    "phrase": {
+      "es": "Si haces lo que siempre has hecho, obtendrás lo que siempre has conseguido.",
+      "en": "If you do what you've always done, you'll get what you've always gotten."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F30_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F30.jpg"
+  },
+  {
+    "author": "Paramahansa Yogananda",
+    "phrase": {
+      "es": "Sé tan simple como puedas ser; te sorprenderá ver lo poco complicada y feliz que tu vida puede ser.",
+      "en": "Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F31_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F31.jpg"
+  },
+  {
+    "author": "Deepak Chopra",
+    "phrase": {
+      "es": "Una vida sin riesgos está lejos de ser una vida saludable.",
+      "en": "A risk-free life is far from being a healthy life."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F32_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F32.jpg"
+  },
+  {
+    "author": {
+      "es": "Confucio",
+      "en": "Confucius"
+    },
+    "phrase": {
+      "es": "Perdónaselo todo a quien nada se perdona a sí mismo.",
+      "en": "Forgive everything to the one who forgives themselves nothing."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F33_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F33.jpg"
+  },
+  {
+    "author": "Thich Nhat Hanh",
+    "phrase": {
+      "es": "El momento presente es el único tiempo sobre el que tenemos algún dominio.",
+      "en": "The present moment is the only time over which we have any control."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F34_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F34.jpg"
+  },
+  {
+    "author": "Thich Nhat Hanh",
+    "phrase": {
+      "es": "Camina como si estuvieras besando la tierra con tus pies.",
+      "en": "Walk as if you are kissing the Earth with your feet."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F36_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F36.jpg"
+  },
+  {
+    "author": "Lao Tzu",
+    "phrase": {
+      "es": "Cuando dejo ir lo que soy, me convierto en lo que podría ser.",
+      "en": "When I let go of what I am, I become what I might be."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F37_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F37.jpg"
+  },
+  {
+    "author": "Jiddu Krishnamurti",
+    "phrase": {
+      "es": "No es saludable estar bien adaptado a una sociedad profundamente enferma.",
+      "en": "It is no measure of health to be well adjusted to a profoundly sick society."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F38_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F38.jpg"
+  },
+  {
+    "author": "Carl Jung",
+    "phrase": {
+      "es": "No podemos cambiar nada hasta que no lo aceptemos. La condena sólo nos oprime.",
+      "en": "We cannot change anything until we accept it. Condemnation does not liberate, it oppresses."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F39_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F39.jpg"
+  },
+  {
+    "author": "Eckhart Tolle",
+    "phrase": {
+      "es": "Conocerte a ti mismo es estar enraizado en el Ser, en lugar de perderte en tu mente.",
+      "en": "Knowing yourself is being rooted in Being, instead of lost in your mind."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F40_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F40.jpg"
+  },
+  {
+    "author": "Ralph Waldo Emerson",
+    "phrase": {
+      "es": "Todos los grandes artistas fueron primero aficionados.",
+      "en": "Every artist was first an amateur."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F01_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F01.jpg"
+  },
+  {
+    "author": "Carl Jung",
+    "phrase": {
+      "es": "Aquello a lo que te resistes, persiste.",
+      "en": "What you resist, persists."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F03_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F03.jpg"
+  },
+  {
+    "author": "Tony Robbins",
+    "phrase": {
+      "es": "No es lo que hacemos de vez en cuando lo que le da forma a nuestras vidas, es lo que hacemos consistentemente.",
+      "en": "It is not what we do once in a while that shapes our lives, but what we do consistently."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F04_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F04.jpg"
+  },
+  {
+    "author": "Eckhart Tolle",
+    "phrase": {
+      "es": "No busques la felicidad. Si la buscas, no lo encuentras, porque la búsqueda es la antítesis de la felicidad.",
+      "en": "Do not seek happiness. If you seek it, you won't find it, because seeking is the antithesis of happiness."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F05_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F05.jpg"
+  },
+  {
+    "author": "Matthieu Ricard",
+    "phrase": {
+      "es": "La felicidad es un estado de realización interna, no la satisfacción de los deseos inagotables de las cosas exteriores.",
+      "en": "Happiness is a state of inner fulfillment, not the gratification of inexhaustible desires for outward things."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F06_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F06.jpg"
+  },
+  {
+    "author": "Eckhart Tolle",
+    "phrase": {
+      "es": "Amar es reconocerte a ti mismo en el otro.",
+      "en": "To love is to recognize yourself in another."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F07_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F07.jpg"
+  },
+  {
+    "author": "Jean Piaget",
+    "phrase": {
+      "es": "Lo que vemos cambia lo que sabemos. Lo que sabemos cambia lo que vemos.",
+      "en": "What we see changes what we know. What we know changes what we see."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F08_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F08.jpg"
+  },
+  {
+    "author": "Alan Watts",
+    "phrase": {
+      "es": "La única manera de darle sentido al cambio es sumergirse en él, moverse con él, unirse a la danza.",
+      "en": "The only way to make sense out of change is to plunge into it, move with it, and join the dance."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F09_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F09.jpg"
+  },
+  {
+    "author": "Lao Tzu",
+    "phrase": {
+      "es": "Si estás deprimido, estás viviendo en el pasado. Si estás ansioso, estás viviendo en el futuro. Si estás en paz, estás viviendo en el presente.",
+      "en": "If you are depressed you are living in the past. If you are anxious, you are living in the future. If you are at peace, you are living in the present."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F10_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F10.jpg"
+  },
+  {
+    "author": "Matthieu Ricard",
+    "phrase": {
+      "es": "El 'ahora' que pasa produce el tiempo. El 'ahora' que queda produce la eternidad.",
+      "en": "The 'now' that passes produces time. The 'now' that remains produces eternity."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F11_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F11.jpg"
+  },
+  {
+    "author": "Jiddu Krishnamurti",
+    "phrase": {
+      "es": "El proceso de combatir algo solo alimenta y fortalece aquello contra lo que luchamos.",
+      "en": "The process of battling against something only feeds and strengthens that which we are fighting against."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F12_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F12.jpg"
+  },
+  {
+    "author": "James Allen",
+    "phrase": {
+      "es": "Las circunstancias no hacen al hombre, lo revelan.",
+      "en": "Circumstances do not make the man, they reveal him."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F13_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F13.jpg"
+  },
+  {
+    "author": "Walter Riso",
+    "phrase": {
+      "es": "No hay nada más peligroso que una idea, cuando es la única que se tiene.",
+      "en": "There's nothing more dangerous than an idea when it's the only one you have."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F14_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F14.jpg"
+  },
+  {
+    "author": "Ralph Waldo Emerson",
+    "phrase": {
+      "es": "De todas las formas de perder a una persona, la muerte es la más amable.",
+      "en": "Of all the ways to lose a person, death is the kindest."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F15_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F15.jpg"
+  },
+  {
+    "author": "Deepak Chopra",
+    "phrase": {
+      "es": "La risa es el mecanismo de la humanidad para escapar del sufrimiento.",
+      "en": "Laughter is humanity's mechanism for escaping suffering."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F16_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F16.jpg"
+  },
+  {
+    "author": "Paramahansa Yogananda",
+    "phrase": {
+      "es": "La verdad es la correspondencia exacta con la realidad.",
+      "en": "Truth is the exact correspondence with reality."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F17_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F17.jpg"
+  },
+  {
+    "author": "Alan Watts",
+    "phrase": {
+      "es": "La vida sólo existe en este preciso momento, y en este momento es infinita y eterna.",
+      "en": "Life only exists at this very moment, and in this moment it is infinite and eternal."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F18_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F18.jpg"
+  },
+  {
+    "author": "Suzanne Powell",
+    "phrase": {
+      "es": "Disfruta del presente, sé tú mismo en cada momento y con todas las consecuencias.",
+      "en": "Enjoy the present, be yourself at every moment and with all its consequences."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F19_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F19.jpg"
+  },
+  {
+    "author": "Matthieu Ricard",
+    "phrase": {
+      "es": "La felicidad se trata de aprender cómo poner las cosas en perspectiva y reducir la brecha entre las apariencias y la realidad.",
+      "en": "Happiness is about learning how to put things into perspective and reducing the gap between appearances and reality."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F20_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F20.jpg"
+  },
+  {
+    "author": "Pema Chödrön",
+    "phrase": {
+      "es": "Nada desaparece hasta que nos ha enseñado lo que necesitamos saber.",
+      "en": "Nothing ever goes away until it has taught us what we need to know."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F21_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F21.jpg"
+  },
+  {
+    "author": {
+      "es": "Confucio",
+      "en": "Confucius"
+    },
+    "phrase": {
+      "es": "Cometer un error y no corregirlo es otro error.",
+      "en": "To make a mistake and not correct it, that is another mistake."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F22_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F22.jpg"
+  },
+  {
+    "author": "Barbara Fredrickson",
+    "phrase": {
+      "es": "Lo negativo te grita, pero lo positivo solo te susurra.",
+      "en": "The negative screams at you, but the positive only whispers."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F23_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F23.jpg"
+  },
+  {
+    "author": "Carl Jung",
+    "phrase": {
+      "es": "Uno no alcanza la iluminación fantaseando sobre la luz sino haciendo consciente la oscuridad.",
+      "en": "One does not become enlightened by imagining figures of light, but by making the darkness conscious."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F24_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F24.jpg"
+  },
+  {
+    "author": "Thich Nhat Hanh",
+    "phrase": {
+      "es": "La comprensión es la sustancia con la que fabricamos compasión.",
+      "en": "Understanding is the very substance we use to forge compassion."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F25_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F25.jpg"
+  },
+  {
+    "author": "David Lynch",
+    "phrase": {
+      "es": "Uno debe abandonarse a su intuición: sabemos más de lo que creemos.",
+      "en": "One must surrender to one's intuition: we know more than we think we do."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F27_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F27.jpg"
+  },
+  {
+    "author": "Thich Nhat Hanh",
+    "phrase": {
+      "es": "La meditación hay que practicarla tranquilamente pero con constancia, a diario, sin desaprovechar ninguna oportunidad ni ningún acontecimiento.",
+      "en": "Meditation should be practiced in tranquility but with consistency, every day, without missing any opportunity or event."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F28_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F28.jpg"
+  },
+  {
+    "author": "Jiddu Krishnamurti",
+    "phrase": {
+      "es": "Entre dos soluciones, opta siempre por la más generosa.",
+      "en": "Between two solutions, choose always the most generous."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F29_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F29.jpg"
+  },
+  {
+    "author": "Brené Brown",
+    "phrase": {
+      "es": "Solo cuando seamos lo suficientemente valientes para explorar la oscuridad, descubriremos el poder infinito de nuestra luz.",
+      "en": "Only when we are brave enough to explore the darkness will we discover the infinite power of our light."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F30_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F30.jpg"
+  },
+  {
+    "author": "Matthieu Ricard",
+    "phrase": {
+      "es": "Poco a poco, al entrenar tu mente, puedes cambiar tu forma habitual de ser.",
+      "en": "Little by little, by training your mind, you can change your usual way of being."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F31_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F31.jpg"
+  },
+  {
+    "author": "James Allen",
+    "phrase": {
+      "es": "Piensa con amor, habla con amor, actúa con amor y todas tus necesidades serán suplidas.",
+      "en": "Think with love, speak with love, act with love, and all your needs will be met."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F32_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F32.jpg"
+  },
+  {
+    "author": "Thich Nhat Hanh",
+    "phrase": {
+      "es": "Comer concentradamente es una de las prácticas de meditación más importantes.",
+      "en": "Eating mindfully is one of the most important meditation practices."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F33_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F33.jpg"
+  },
+  {
+    "author": "Pema Chödrön",
+    "phrase": {
+      "es": "No nos sentamos en meditación para convertirnos en buenos meditadores, sino para estar más despiertos en nuestra vida cotidiana.",
+      "en": "We don’t sit in meditation to become good meditators, but to be more awake in our everyday lives."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F34_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F34.jpg"
+  },
+  {
+    "author": "Eckhart Tolle",
+    "phrase": {
+      "es": "Ejercer poder sobre los demás es debilidad disfrazada de fuerza.",
+      "en": "Exercising power over others is weakness disguised as strength."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F35_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F35.jpg"
+  },
+  {
+    "author": "Pema Chödrön",
+    "phrase": {
+      "es": "El odio nunca cesa con el odio, tan sólo desaparece con el amor. Ésa es una ley antigua y eterna.",
+      "en": "Hatred never ceases with hatred, but only disappears with love. That is an ancient and eternal law."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F36_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F36.jpg"
+  },
+  {
+    "author": "Walter Riso",
+    "phrase": {
+      "es": "Hay que amar siendo libre: «Yo no te necesito, te prefiero, te elijo».",
+      "en": "You must love being free: 'I don't need you, I prefer you, I choose you.'"
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F37_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F37.jpg"
+  },
+  {
+    "author": "Ralph Waldo Emerson",
+    "phrase": {
+      "es": "La vida es una sucesión de lecciones que deben ser vividas para ser comprendidas.",
+      "en": "Life is a succession of lessons which must be lived to be understood."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F38_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F38.jpg"
+  },
+  {
+    "author": "Alan Watts",
+    "phrase": {
+      "es": "La poesía es el lenguaje por excelencia, porque es el arte de decir lo que no puede decirse.",
+      "en": "Poetry is the language par excellence, because it is the art of saying what cannot be said."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F39_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F39.jpg"
+  },
+  {
+    "author": "Elisabeth Kübler-Ross",
+    "phrase": {
+      "es": "Todo en esta vida tiene un propósito, no hay errores, no hay coincidencias.",
+      "en": "Everything in this life has a purpose, there are no mistakes, no coincidences."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F40_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F40.jpg"
+  },
+  {
+    "author": {
+      "es": "Epicteto",
+      "en": "Epictetus"
+    },
+    "phrase": {
+      "es": "Es imposible que un hombre aprenda lo que cree que ya sabe.",
+      "en": "It is impossible for a man to learn what he thinks he already knows."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F01_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F01.jpg"
+  },
+  {
+    "author": "Thich Nhat Hanh",
+    "phrase": {
+      "es": "Tu capacidad para querer a otra persona depende completamente de tu capacidad para amarte a ti mismo.",
+      "en": "Your ability to love another person depends entirely on your ability to love yourself."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F02_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F02.jpg"
+  },
+  {
+    "author": "Daniel Goleman",
+    "phrase": {
+      "es": "El liderazgo no tiene que ver con el control de los demás sino con el arte de persuadirles para colaborar en la construcción de un objetivo común.",
+      "en": "Leadership is not about controlling others but about the art of persuading them to collaborate in building a common goal."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F03_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F03.jpg"
+  },
+  {
+    "author": "Pema Chödrön",
+    "phrase": {
+      "es": "Sólo podemos reconocer lo que estamos sintiendo si nos hallamos en un espacio abierto y libre de juicios.",
+      "en": "We can only recognize what we are feeling if we find ourselves in an open, non-judgmental space."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F04_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F04.jpg"
+  },
+  {
+    "author": "Nisargadatta Maharaj",
+    "phrase": {
+      "es": "Fluir con la vida quiere decir aceptación: dejar llegar lo que viene y dejar ir lo que se va.",
+      "en": "Flowing with life means acceptance: letting come what comes and letting go what goes."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F05_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F05.jpg"
+  },
+  {
+    "author": "Walter Riso",
+    "phrase": {
+      "es": "Las mejores cosas de la vida suelen ocurrir cuando no esperamos nada.",
+      "en": "The best things in life often happen when we expect nothing."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F06_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F06.jpg"
+  },
+  {
+    "author": "Eckhart Tolle",
+    "phrase": {
+      "es": "No es raro que las personas pasen toda su vida esperando para empezar a vivir.",
+      "en": "It is not uncommon for people to spend their whole life waiting to start living."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F07_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F07.jpg"
+  },
+  {
+    "author": "Ralph Waldo Emerson",
+    "phrase": {
+      "es": "La vida es un viaje, no un destino.",
+      "en": "Life is a journey, not a destination."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F08_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F08.jpg"
+  },
+  {
+    "author": "James Allen",
+    "phrase": {
+      "es": "Las condiciones externas de la vida de una persona reflejan sus creencias internas.",
+      "en": "A person's external conditions of life reflect their internal beliefs."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F09_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F09.jpg"
+  },
+  {
+    "author": {
+      "es": "Confucio",
+      "en": "Confucius"
+    },
+    "phrase": {
+      "es": "El hombre sabio busca lo que desea en su interior; el no sabio, lo busca en los demás.",
+      "en": "The wise man seeks what he desires within himself; the unwise seeks it in others."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F10_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F10.jpg"
+  },
+  {
+    "author": "Jiddu Krishnamurti",
+    "phrase": {
+      "es": "No vemos las cosas como son, sino como somos.",
+      "en": "We do not see things as they are, we see them as we are."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F11_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F11.jpg"
+  },
+  {
+    "author": "Eckhart Tolle",
+    "phrase": {
+      "es": "Tienes mucho que aprender de tus enemigos.",
+      "en": "You have a lot to learn from your enemies."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F13_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F13.jpg"
+  },
+  {
+    "author": "Deepak Chopra",
+    "phrase": {
+      "es": "La única manera de obtener algo en el universo físico es soltándolo. Déjalo ir y será tuyo para siempre.",
+      "en": "The only way to get anything in the physical universe is to let go of it. Let it go and it will be yours forever."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F14_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F14.jpg"
+  },
+  {
+    "author": "Pema Chödrön",
+    "phrase": {
+      "es": "Las experiencias de tu vida están tratando de decirte algo sobre ti. No escapes de eso. No huyas y te escondas debajo de tu cubierta. Apóyate en eso.",
+      "en": "The experiences of your life are trying to tell you something about yourself. Do not escape from it. Do not run away and hide under your cover. Lean into it."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F15_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F15.jpg"
+  },
+  {
+    "author": "Deepak Chopra",
+    "phrase": {
+      "es": "En la incertidumbre encontraremos la libertad para crear cualquier cosa que deseemos.",
+      "en": "In uncertainty we find the freedom to create anything we desire."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F16_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F16.jpg"
+  },
+  {
+    "author": "Pablo d'Ors",
+    "phrase": {
+      "es": "Tanto el arte como la meditación nacen siempre de la entrega; nunca del esfuerzo.",
+      "en": "Both art and meditation are always born from surrender; never from effort."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F17_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F17.jpg"
+  },
+  {
+    "author": "Pema Chödrön",
+    "phrase": {
+      "es": "El futuro está completamente abierto y lo estamos escribiendo momento a momento.",
+      "en": "The future is completely open, and we are writing it moment to moment."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F18_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F18.jpg"
+  },
+  {
+    "author": "Antoine de Saint-Exupéry",
+    "phrase": {
+      "es": "Sólo se ve bien con el corazón; lo esencial es invisible para los ojos.",
+      "en": "What is essential is invisible to the eye."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F19_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F19.jpg"
+  },
+  {
+    "author": "Emmanuel Carrère",
+    "phrase": {
+      "es": "La meditación es aceptar que la vida tenga contrariedades en lugar de huir de ellas.",
+      "en": "Meditation is accepting that life has setbacks instead of running away from them."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F20_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F20.jpg"
+  },
+  {
+    "author": "Daniel Goleman",
+    "phrase": {
+      "es": "El logro real no depende tanto del talento, sino de la capacidad de seguir adelante a pesar de los fracasos.",
+      "en": "Real achievement does not depend so much on talent, but on the ability to keep going in spite of failure."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F21_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F21.jpg"
+  },
+  {
+    "author": "Eckhart Tolle",
+    "phrase": {
+      "es": "Tu viaje exterior puede contener un millón de pasos; tu viaje interior tiene un solo: el paso que estás tomando en este momento.",
+      "en": "Your outward journey may contain a million steps; your inner journey only has one: the step you are taking right now."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F22_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F22.jpg"
+  },
+  {
+    "author": "Joe Dispenza",
+    "phrase": {
+      "es": "Si queremos cambiar algún aspecto de nuestra realidad, tenemos que pensar, sentir y actuar de formas nuevas; tenemos que «ser» diferentes en cuanto a nuestras respuestas a las experiencias.",
+      "en": "If we want to change some aspect of our reality, we have to think, feel, and act in new ways; we have to 'be' different in terms of our responses to experiences."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F24_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F24.jpg"
+  },
+  {
+    "author": "Eckhart Tolle",
+    "phrase": {
+      "es": "Lo que la oruga llama el fin del mundo, nosotros lo llamamos una mariposa.",
+      "en": "What the caterpillar calls the end of the world, the master calls a butterfly."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F25_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F25.jpg"
+  },
+  {
+    "author": "Paulo Coelho",
+    "phrase": {
+      "es": "El amor es también una cosa misteriosa: cuanto más compartimos, más se multiplica.",
+      "en": "Love is also a mysterious thing: the more we share it, the more it multiplies."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F26_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F26.jpg"
+  },
+  {
+    "author": "Carl Jung",
+    "phrase": {
+      "es": "Los niños aprenden de lo que los adultos hacen, no de lo que dicen.",
+      "en": "Children learn from what adults do, not from what they say."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F27_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F27.jpg"
+  },
+  {
+    "author": "Thich Nhat Hanh",
+    "phrase": {
+      "es": "Estamos aquí para despertar de la ilusión de que estamos separados.",
+      "en": "We are here to awaken from the illusion of our separateness."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F28_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F28.jpg"
+  },
+  {
+    "author": "Michel de Montaigne",
+    "phrase": {
+      "es": "El signo más cierto de la sabiduría es la serenidad constante.",
+      "en": "The surest sign of wisdom is constant serenity."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F29_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F29.jpg"
+  },
+  {
+    "author": "Tony Robbins",
+    "phrase": {
+      "es": "No importa cuántas veces te equivocas o con que lentitud progresas, sigues estando muy por delante de los que ni lo intentan.",
+      "en": "It doesn’t matter how many times you get knocked down, only how many times you get up."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F30_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F30.jpg"
+  },
+  {
+    "author": "Joe Dispenza",
+    "phrase": {
+      "es": "Los pensamientos conscientes repetidos con suficiente frecuencia, se convierten en pensamientos inconscientes.",
+      "en": "Conscious thoughts repeated often enough become subconscious thoughts."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F31_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F31.jpg"
+  },
+  {
+    "author": "Lao Tzu",
+    "phrase": {
+      "es": "Un viaje de mil millas comienza con el primer paso.",
+      "en": "A journey of a thousand miles begins with a single step."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F32_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F32.jpg"
+  },
+  {
+    "author": "Paulo Coelho",
+    "phrase": {
+      "es": "Todas las batallas en la vida sirven para enseñarnos algo, inclusive aquellas que perdemos.",
+      "en": "All the battles in life serve to teach us something, even those we lose."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F33_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F33.jpg"
+  },
+  {
+    "author": "Paramahansa Yogananda",
+    "phrase": {
+      "es": "La temporada del fracaso es la mejor temporada para sembrar las semillas del éxito.",
+      "en": "The season of failure is the best time for sowing the seeds of success."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F34_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F34.jpg"
+  },
+  {
+    "author": "Thich Nhat Hanh",
+    "phrase": {
+      "es": "Seremos más exitosos en nuestros esfuerzos si tomamos descansos para relajarnos y centrarnos.",
+      "en": "We will be more successful in all our endeavors if we take little pauses to relax and re-center ourselves."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F35_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F35.jpg"
+  },
+  {
+    "author": "Nisargadatta Maharaj",
+    "phrase": {
+      "es": "Desapego es soltar lo viejo cuando lo nuevo no ha llegado aún.",
+      "en": "Detachment means letting go of the old before the new has arrived."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F37_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F37.jpg"
+  },
+  {
+    "author": {
+      "es": "Epicteto",
+      "en": "Epictetus"
+    },
+    "phrase": {
+      "es": "El sufrimiento no deriva de los acontecimientos de nuestras vidas sino de nuestros juicios sobre ellos.",
+      "en": "Suffering does not come from the events in our lives, but from our judgments about them."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F38_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F38.jpg"
+  },
+  {
+    "author": "Carl Jung",
+    "phrase": {
+      "es": "El privilegio de una vida es convertirse en quien realmente eres.",
+      "en": "The privilege of a lifetime is to become who you truly are."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F39_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F39.jpg"
+  },
+  {
+    "author": "Carl Jung",
+    "phrase": {
+      "es": "Todo lo que nos irrita de otros nos lleva a un entendimiento de nosotros mismos.",
+      "en": "Everything that irritates us about others can lead us to an understanding of ourselves."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F01_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F01.jpg"
+  },
+  {
+    "author": "Joseph Campbell",
+    "phrase": {
+      "es": "Debemos estar dispuestos a dejar ir la vida que hemos planeado, para aceptar la que nos espera.",
+      "en": "We must be willing to let go of the life we've planned, so as to have the life that is waiting for us."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F02_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F02.jpg"
+  },
+  {
+    "author": "James Allen",
+    "phrase": {
+      "es": "Las acciones son brotes del pensamiento, y la dicha y el sufrimiento son sus frutos.",
+      "en": "Actions are the blossoms of thought, and joy and suffering are its fruits."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F03_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F03.jpg"
+  },
+  {
+    "author": "Ralph Waldo Emerson",
+    "phrase": {
+      "es": "La única persona que estás destinado a ser es la persona que decides ser.",
+      "en": "The only person you are destined to become is the person you decide to be."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F04_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F04.jpg"
+  },
+  {
+    "author": "Esther Perel",
+    "phrase": {
+      "es": "Cuanto más confiemos, más lejos podremos aventurarnos.",
+      "en": "The more we trust, the farther we are able to venture."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F05_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F05.jpg"
+  },
+  {
+    "author": {
+      "es": "Epicteto",
+      "en": "Epictetus"
+    },
+    "phrase": {
+      "es": "No busques que los acontecimientos ocurran como tú deseas, deja que sucedan como suceden, y todo te irá bien.",
+      "en": "Don't seek for everything to happen as you wish it would, but rather wish that everything happens as it actually will—then your life will flow well."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F06_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F06.jpg"
+  },
+  {
+    "author": "Ramana Maharshi",
+    "phrase": {
+      "es": "La mente dirigida hacia afuera se transforma en pensamientos y objetos. La mente dirigida hacia adentro se transforma en el Yo.",
+      "en": "The outward-focused mind becomes thoughts and objects. The inward-focused mind becomes Self."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F07_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F07.jpg"
+  },
+  {
+    "author": "Rumi",
+    "phrase": {
+      "es": "No pienses que el jardín pierde su éxtasis en invierno. Es silencioso, pero sus raíces están ahí debajo.",
+      "en": "Don't think the garden loses its ecstasy in winter. It's quiet, but the roots are down there riotous."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F08_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F08.jpg"
+  },
+  {
+    "author": "Michel de Montaigne",
+    "phrase": {
+      "es": "Yo no me encuentro a mí mismo cuando más me busco. Me encuentro por sorpresa cuando menos lo espero.",
+      "en": "I do not find myself when I most seek myself. I find myself by surprise when I least expect it."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F09_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F09.jpg"
+  },
+  {
+    "author": "James Allen",
+    "phrase": {
+      "es": "Sólo el sabio, sólo aquel cuyos pensamientos son controlados y unificados, hace que le obedezcan los vientos y las tempestades del espíritu.",
+      "en": "Only the wise, only those whose thoughts are controlled and unified, command the winds and the storms to do their will."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F10_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F10.jpg"
+  },
+  {
+    "author": "Thich Nhat Hanh",
+    "phrase": {
+      "es": "La meditación es ser consciente de lo que está pasando ahora mismo: en tu cuerpo, en tus sentimientos, en tu mente y en el mundo.",
+      "en": "Meditation is to be aware of what is going on - in your body, in your feelings, in your mind, and in the world."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F11_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F11.jpg"
+  },
+  {
+    "author": "Tony Robbins",
+    "phrase": {
+      "es": "El éxito es hacer lo que tú quieres, cuando tú quieres, donde tú quieres, con quien tú quieres, todo el tiempo que quieres.",
+      "en": "Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F12_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F12.jpg"
+  },
+  {
+    "author": "Adyashanti",
+    "phrase": {
+      "es": "La mente es algo que sucede dentro de ti. Pensar es algo que sucede dentro de lo que eres. Pensar no define lo que eres. Pensar no define nada.",
+      "en": "The mind is something that is happening inside you. Thinking is something that is happening inside of what you are. Thinking does not define what you are. Thinking does not define anything."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F13_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F13.jpg"
+  },
+  {
+    "author": "Pema Chödrön",
+    "phrase": {
+      "es": "La paciencia es la marca del verdadero amor. Si realmente amas a alguien, serás más paciente con esa persona.",
+      "en": "Patience is the mark of true love. If you truly love someone, you will be more patient with that person."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F14_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F14.jpg"
+  },
+  {
+    "author": "Jimmy Dean",
+    "phrase": {
+      "es": "No puedo cambiar la dirección del viento, pero puedo ajustar mis velas para siempre llegar a mi destino.",
+      "en": "I can't change the direction of the wind, but I can adjust my sails to always reach my destination."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F15_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F15.jpg"
+  },
+  {
+    "author": "Jiddu Krishnamurti",
+    "phrase": {
+      "es": "Por la esperanza del mañana sacrificamos el hoy, sin embargo la felicidad siempre está en el ahora.",
+      "en": "For the hope of tomorrow we sacrifice today, yet happiness is always in the now."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F16_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F16.jpg"
+  },
+  {
+    "author": "Ralph Waldo Emerson",
+    "phrase": {
+      "es": "Ama, y serás amado.",
+      "en": "Love, and you shall be loved."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F17_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F17.jpg"
+  },
+  {
+    "author": "Alan Watts",
+    "phrase": {
+      "es": "Este es el verdadero secreto de la vida: estar completamente comprometido con lo que se está haciendo aquí y ahora. Y en lugar de llamarlo trabajo, darse cuenta de que es un juego.",
+      "en": "This is the real secret of life - to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F18_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F18.jpg"
+  },
+  {
+    "author": "Paulo Coelho",
+    "phrase": {
+      "es": "Sólo una cosa vuelve un sueño imposible: el miedo a fracasar.",
+      "en": "The only thing that makes a dream impossible to achieve: the fear of failure."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F19_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F19.jpg"
+  },
+  {
+    "author": "Viktor Frankl",
+    "phrase": {
+      "es": "¡Cuando la situación es buena, disfrútala! ¡Cuando la situación es mala, transfórmala! ¡Cuando la situación no puede ser transformada, transfórmate!",
+      "en": "When a situation is good, enjoy it! When it is bad, transform it! When it cannot be transformed, transform yourself!"
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F20_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F20.jpg"
+  },
+  {
+    "author": "Nisargadatta Maharaj",
+    "phrase": {
+      "es": "La mente crea el abismo, el corazón lo cruza.",
+      "en": "The mind creates the abyss, the heart crosses it."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F21_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F21.jpg"
+  },
+  {
+    "author": {
+      "es": "Confucio",
+      "en": "Confucius"
+    },
+    "phrase": {
+      "es": "Me lo contaron y lo olvidé; lo vi y lo entendí; lo hice y lo aprendí.",
+      "en": "I hear and I forget, I see and I remember, I do and I understand."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F22_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F22.jpg"
+  },
+  {
+    "author": "James Allen",
+    "phrase": {
+      "es": "Hoy estás donde tus pensamientos te han traído; mañana estarás donde tus pensamientos te lleven.",
+      "en": "You are today where your thoughts have brought you; you will be tomorrow where your thoughts take you."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F23_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F23.jpg"
+  },
+  {
+    "author": "Nelson Mandela",
+    "phrase": {
+      "es": "Aprendí que el coraje no era la ausencia de miedo, sino el triunfo sobre él.",
+      "en": "I learned that courage was not the absence of fear, but the triumph over it."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F24_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F24.jpg"
+  },
+  {
+    "author": "Tony Robbins",
+    "phrase": {
+      "es": "Los verdaderos líderes pasan el 5% del tiempo pensando en el problema y el 95% del tiempo pensando en la solución.",
+      "en": "Leaders spend 5% of their time on the problem & 95% of their time on the solution."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F26_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F26.jpg"
+  },
+  {
+    "author": "Nelson Mandela",
+    "phrase": {
+      "es": "Siempre parece imposible hasta que se hace.",
+      "en": "It always seems impossible until it's done."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F27_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F27.jpg"
+  },
+  {
+    "author": {
+      "es": "Confucio",
+      "en": "Confucius"
+    },
+    "phrase": {
+      "es": "Saber lo que es justo y no hacerlo es la peor de las cobardías.",
+      "en": "To know what is right and not do it is the worst cowardice."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F28_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F28.jpg"
+  },
+  {
+    "author": "Thich Nhat Hanh",
+    "phrase": {
+      "es": "Tu concepto o percepción de la realidad no es la realidad. Cuando quedas atrapado en tus percepciones e ideas, pierdes la realidad.",
+      "en": "Your concept or perception of reality is not reality. When you get caught in your perceptions and ideas, you lose reality."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F29_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F29.jpg"
+  },
+  {
+    "author": "Joe Dispenza",
+    "phrase": {
+      "es": "Un ser empoderado, libre, ilimitado, creativo, genio, divino - eso es lo que eres. Una vez que te sientas así, memoriza este sentimiento. Esto es lo que realmente eres.",
+      "en": "An empowered being, free, unlimited, creative, a genius, divine - that's what you are. Once you feel this way, memorize this feeling. This is really who you are."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F30_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F30.jpg"
+  },
+  {
+    "author": "Daniel Goleman",
+    "phrase": {
+      "es": "Mirar directamente a los ojos abre la puerta de acceso a la empatía.",
+      "en": "Looking into each other's eyes deeply opens the door to empathy."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F31_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F31.jpg"
+  },
+  {
+    "author": "Deepak Chopra",
+    "phrase": {
+      "es": "La vida te da un montón de tiempo para hacer lo que quieras si te mantienes en el momento presente.",
+      "en": "Life gives you plenty of time to do whatever you want to do if you stay in the present moment."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F32_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F32.jpg"
+  },
+  {
+    "author": "Napoleon Hill",
+    "phrase": {
+      "es": "La felicidad se encuentra en hacer, no simplemente en poseer.",
+      "en": "Happiness is found in doing, not merely possessing."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F33_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F33.jpg"
+  },
+  {
+    "author": "San Francisco de Asís",
+    "phrase": {
+      "es": "Toda la oscuridad del mundo no puede extinguir la luz de una sola vela.",
+      "en": "All the darkness in the world cannot extinguish the light of a single candle."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F34_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F34.jpg"
+  },
+  {
+    "author": "Bill Murray",
+    "phrase": {
+      "es": "Cuanto más relajado estés, mejor serás en todo. Serás mejor con los que amas, con tus amigos, en el trabajo y contigo mismo.",
+      "en": "The more relaxed you are, the better you are at everything: the better you are with your loved ones, the better you are with your enemy, the better you are at your job, the better you are with yourself."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F35_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F35.jpg"
+  },
+  {
+    "author": "Daniel Goleman",
+    "phrase": {
+      "es": "La meditación nos enseña a ignorar las distracciones y a enfocar nuestra atención en lo que queremos enfocarla.",
+      "en": "Meditation teaches us to ignore distractions and to focus our attention on what we want to focus it on."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F36_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F36.jpg"
+  },
+  {
+    "author": "Eckhart Tolle",
+    "phrase": {
+      "es": "Reconocer la propia locura es, por supuesto, el surgimiento de la cordura, el comienzo de la curación y la trascendencia.",
+      "en": "Recognizing one's own insanity is, of course, the arising of sanity, the beginning of healing and transcendence."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F37_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F37.jpg"
+  },
+  {
+    "author": "Thich Nhat Hanh",
+    "phrase": {
+      "es": "La persona meditadora respira profundo y dice: 'Hola mi miedo, mi enojo, mi desesperación... Cuidaré muy bien de ustedes.'",
+      "en": "The meditating person breathes deeply and says: 'Hello my fear, my anger, my despair... I will take good care of you.'"
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F38_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F38.jpg"
+  },
+  {
+    "author": "James Allen",
+    "phrase": {
+      "es": "Los que han conquistado la duda y el miedo, han conquistado el fracaso.",
+      "en": "Those who have conquered doubt and fear have conquered failure."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F39_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F39.jpg"
+  },
+  {
+    "author": "Isaac Newton",
+    "phrase": {
+      "es": "Lo que sabemos es una gota de agua; lo que ignoramos es el océano.",
+      "en": "What we know is a drop, what we don't know is an ocean."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F40_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F40.jpg"
+  },
+  {
+    "author": "Jiddu Krishnamurti",
+    "phrase": {
+      "es": "La búsqueda se convierte en otra huida de lo que realmente somos.",
+      "en": "The search becomes another escape from the actuality of what is."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F01_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F01.jpg"
+  },
+  {
+    "author": "Pema Chödrön",
+    "phrase": {
+      "es": "No dejes que la gente te arrastre a su tormenta. Llévalos a tu paz.",
+      "en": "Don’t let people pull you into their storm. Pull them into your peace."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F02_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F02.jpg"
+  },
+  {
+    "author": "Marsha Linehan",
+    "phrase": {
+      "es": "Conocer y cambiar lo que produjo una conducta determinada es más efectivo que juzgar y culpar.",
+      "en": "Knowing and changing what produced a certain behavior is more effective than judging and blaming."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F03_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F03.jpg"
+  },
+  {
+    "author": {
+      "es": "Proverbio Zen",
+      "en": "Zen Proverb"
+    },
+    "phrase": {
+      "es": "Si vas a caminar, camina. Si vas a comer, come. Vive sencillo. Haz de tu vida un ritual.",
+      "en": "When walking, walk. When eating, eat. Live simply. Make your life a ritual."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F04_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F04.jpg"
+  },
+  {
+    "author": "Thich Nhat Hanh",
+    "phrase": {
+      "es": "El regalo más precioso que podemos ofrecer a los demás es nuestra presencia. Cuando la atención plena abraza a nuestros seres queridos florecen como árboles en primavera.",
+      "en": "The most precious gift we can offer others is our presence. When mindfulness embraces those we love, they will bloom like flowers."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F05_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F05.jpg"
+  },
+  {
+    "author": "Deepak Chopra",
+    "phrase": {
+      "es": "El pasado es historia, el futuro es un misterio y este momento es un regalo, por eso se llama presente.",
+      "en": "The past is history, the future is a mystery, and this moment is a gift. That is why this moment is called 'the present'."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F06_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F06.jpg"
+  },
+  {
+    "author": "Thich Nhat Hanh",
+    "phrase": {
+      "es": "Para que las cosas se nos revelen necesitamos estar listos para dejar ir nuestras opiniones sobre ellas.",
+      "en": "In order for things to reveal themselves to us, we need to be ready to abandon our views about them."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F07_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F07.jpg"
+  },
+  {
+    "author": "Carl Jung",
+    "phrase": {
+      "es": "Las personas podrian aprender de sus errores si no estuvieran tan ocupados negándolos.",
+      "en": "People would learn from their mistakes if they weren't so busy denying them."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F08_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F08.jpg"
+  },
+  {
+    "author": "Rupi Kaur",
+    "phrase": {
+      "es": "La forma en que te amas a ti mismo es cómo enseñas a los demás a amarte.",
+      "en": "The way you love yourself is how you teach others to love you."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F09_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F09.jpg"
+  },
+  {
+    "author": "Ramana Maharshi",
+    "phrase": {
+      "es": "Todo lo que uno da a los otros, se lo da a sí mismo. Si esta verdad se entendiera, ¿Quién no daría a los demás?",
+      "en": "Whatever one gives to others, one gives to oneself. If this truth is understood, who would not give to others?"
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F10_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F10.jpg"
+  },
+  {
+    "author": "Deepak Chopra",
+    "phrase": {
+      "es": "Cuando el dolor de ser igual se vuelve mayor que el dolor de ser diferente, cambias.",
+      "en": "When the pain of being the same becomes greater than the pain of being different, you change."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F11_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F11.jpg"
+  },
+  {
+    "author": "Pablo d'Ors",
+    "phrase": {
+      "es": "Siempre que sufrimos algún embate serio en la vida, estamos llamados a renacer de nuestras cenizas, a reinventarnos.",
+      "en": "Whenever we suffer a serious blow in life, we are called to be reborn from our ashes, to reinvent ourselves."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F12_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F12.jpg"
+  },
+  {
+    "author": "Séneca",
+    "phrase": {
+      "es": "Para ser felices se necesita eliminar dos cosas: el temor de un mal futuro y el recuerdo de un mal pasado.",
+      "en": "To be happy we need to eliminate two things: fear of a bad future and the memory of a bad past."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F13_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F13.jpg"
+  },
+  {
+    "author": "Tony Robbins",
+    "phrase": {
+      "es": "Es lo que practicas en privado por lo que serás felicitado en público.",
+      "en": "It's what you practice in private that you will be applauded for in public."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F14_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F14.jpg"
+  },
+  {
+    "author": "James Allen",
+    "phrase": {
+      "es": "No atraes aquello que quieres, sino aquello que eres.",
+      "en": "You don't attract what you want, you attract what you are."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F15_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F15.jpg"
+  },
+  {
+    "author": "Indra Devi",
+    "phrase": {
+      "es": "La risa aleja los gritos.",
+      "en": "Laughter drives away the screams."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F16_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F16.jpg"
+  },
+  {
+    "author": "Antoine de Saint-Exupéry",
+    "phrase": {
+      "es": "Aquel que quiera viajar feliz, deberá viajar ligero.",
+      "en": "He who would travel happily must travel light."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F18_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F18.jpg"
+  },
+  {
+    "author": "Pema Chödrön",
+    "phrase": {
+      "es": "A veces, cuando las cosas se derrumban, esa es la gran oportunidad para cambiar.",
+      "en": "Sometimes, when things fall apart, that's the great opportunity to change."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F19_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F19.jpg"
+  },
+  {
+    "author": "Paramahansa Yogananda",
+    "phrase": {
+      "es": "Aprende a estar tranquilo y siempre serás feliz.",
+      "en": "Learn to be calm and you will always be happy."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F20_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F20.jpg"
+  },
+  {
+    "author": "Brené Brown",
+    "phrase": {
+      "es": "La vulnerabilidad es el lugar de nacimiento de la innovación, la creatividad y el cambio.",
+      "en": "Vulnerability is the birthplace of innovation, creativity and change."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F21_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F21.jpg"
+  },
+  {
+    "author": "Rumi",
+    "phrase": {
+      "es": "El amor es el puente entre tú y todo.",
+      "en": "Love is the bridge between you and everything."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F22_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F22.jpg"
+  },
+  {
+    "author": "Jiddu Krishnamurti",
+    "phrase": {
+      "es": "La verdad es la que libera, no el esfuerzo por ser libre.",
+      "en": "Truth is what liberates, not the effort to be free."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F23_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F23.jpg"
+  },
+  {
+    "author": "San Francisco de Asís",
+    "phrase": {
+      "es": "Luchemos por alcanzar la serenidad de aceptar las cosas inevitables, el valor de cambiar las cosas que podamos y la sabiduría para poder distinguir unas de otras.",
+      "en": "God, grant me the serenity to accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F24_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F24.jpg"
+  },
+  {
+    "author": "Walter Riso",
+    "phrase": {
+      "es": "El respeto por nosotros mismos y por nuestros valores debe anteponerse a cualquier temor o deseo de agradar.",
+      "en": "Respect for ourselves and our values must take precedence over any fear or desire to please."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F25_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F25.jpg"
+  },
+  {
+    "author": "Thich Nhat Hanh",
+    "phrase": {
+      "es": "Todo momento es un regalo de la vida.",
+      "en": "Every moment is a gift of life."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F26_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F26.jpg"
+  },
+  {
+    "author": "Brené Brown",
+    "phrase": {
+      "es": "Al final del día, al final de la semana, al final de mi vida, me gustaría poder decir que contribuí más de lo que critiqué.",
+      "en": "At the end of the day, at the end of the week, at the end of my life, I want to be able to say that I contributed more than I criticized."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F27_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F27.jpg"
+  },
+  {
+    "author": "Paramahansa Yogananda",
+    "phrase": {
+      "es": "La persistencia garantiza que los resultados sean inevitables.",
+      "en": "Persistence guarantees that results are inevitable."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F28_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F28.jpg"
+  },
+  {
+    "author": "Eckhart Tolle",
+    "phrase": {
+      "es": "Nada ha sucedido en el pasado; sucedió en el Ahora. Nada va a pasar en el futuro; va a pasar en el Ahora.",
+      "en": "Nothing ever happened in the past; it happened in the Now. Nothing will ever happen in the future; it will happen in the Now."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F29_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F29.jpg"
+  },
+  {
+    "author": "Gandhi",
+    "phrase": {
+      "es": "Nadie me puede hacer daño sin mi permiso.",
+      "en": "Nobody can hurt me without my permission."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F30_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F30.jpg"
+  },
+  {
+    "author": "Winston Churchill",
+    "phrase": {
+      "es": "El éxito consiste en ir de fracaso a fracaso sin perder el entusiasmo.",
+      "en": "Success is going from failure to failure without losing enthusiasm."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F31_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F31.jpg"
+  },
+  {
+    "author": "Jorge Luis Borges",
+    "phrase": {
+      "es": "He sospechado alguna vez que la única cosa sin misterio es la felicidad, porque se justifica por sí sola.",
+      "en": "I have sometimes suspected that the only thing without mystery is happiness, because it justifies itself."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F32_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F32.jpg"
+  },
+  {
+    "author": "Emmanuel Carrère",
+    "phrase": {
+      "es": "La meditación es aprender a no juzgar. Es desistir de esa posición de verlo todo desde las alturas.",
+      "en": "Meditation is learning not to judge. It is desisting from that position of seeing everything from the heights."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F33_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F33.jpg"
+  },
+  {
+    "author": "David Lynch",
+    "phrase": {
+      "es": "Lo más hermoso que te puede pasar es cuando atrapas una idea que amas. Las ideas están ahí, sólo hay que atraparlas.",
+      "en": "The most beautiful thing that can happen to you is when you catch an idea that you love. Ideas are out there, you just have to catch them."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F34_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F34.jpg"
+  },
+  {
+    "author": "Tara Brach",
+    "phrase": {
+      "es": "La única manera de vivir es aceptando cada minuto como un milagro irrepetible.",
+      "en": "The only way to live is by accepting every minute as an unrepeatable miracle."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F35_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F35.jpg"
+  },
+  {
+    "author": "Deepak Chopra",
+    "phrase": {
+      "es": "La aceptación de la experiencia es la clave de la felicidad.",
+      "en": "Acceptance of experience is the key to happiness."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F36_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F36.jpg"
+  },
+  {
+    "author": "Ralph Waldo Emerson",
+    "phrase": {
+      "es": "Un amigo es una persona con la que puedo ser sincero. Delante de él puedo pensar en voz alta.",
+      "en": "A friend is a person with whom I may be sincere. Before him I may think aloud."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F37_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F37.jpg"
+  },
+  {
+    "author": {
+      "es": "Confucio",
+      "en": "Confucius"
+    },
+    "phrase": {
+      "es": "Cuando el sabio señala a la luna, el necio mira al dedo.",
+      "en": "When the sage points at the moon, the fool looks at the finger."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F38_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F38.jpg"
+  },
+  {
+    "author": "Carl Jung",
+    "phrase": {
+      "es": "Donde reina la sabiduría, no existe conflicto entre pensar y sentir.",
+      "en": "Where wisdom reins, there is no conflict between thinking and feeling."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F39_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F39.jpg"
+  },
+  {
+    "author": "Thich Nhat Hanh",
+    "phrase": {
+      "es": "Ser bella significa ser tú misma. No necesitas ser aceptada por otros. Tienes que aceptarte a ti misma.",
+      "en": "Being beautiful means being yourself. You don’t need to be accepted by others. You need to accept yourself."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F40_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F40.jpg"
+  },
+  {
+    "author": "Antoine de Saint-Exupéry",
+    "phrase": {
+      "es": "Amar no es mirarse el uno al otro; es mirar juntos en la misma dirección.",
+      "en": "Love does not consist of gazing at each other, but in looking together in the same direction."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F01_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F01.jpg"
+  },
+  {
+    "author": "Jean-Jacques Rousseau",
+    "phrase": {
+      "es": "La paciencia es amarga, pero sus frutos son dulces.",
+      "en": "Patience is bitter, but its fruits are sweet."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F02_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F02.jpg"
+  },
+  {
+    "author": "Tony Robbins",
+    "phrase": {
+      "es": "Son tus decisiones, no tus circunstancias, las que determinan tu destino.",
+      "en": "It is your decisions, not your conditions, that determine your destiny."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F03_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F03.jpg"
+  },
+  {
+    "author": "Deepak Chopra",
+    "phrase": {
+      "es": "No hay accidentes, sólo hay un propósito que aún no hemos entendido.",
+      "en": "There are no accidents, there's only some purpose that we haven't yet understood."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F04_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F04.jpg"
+  },
+  {
+    "author": "James Allen",
+    "phrase": {
+      "es": "Siembra un acto y cosecharás un hábito. Siembra un hábito y cosecharás un carácter. Siembra un carácter y cosecharás un destino.",
+      "en": "Sow an act, and you reap a habit. Sow a habit, and you reap a character. Sow a character, and you reap a destiny."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F05_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F05.jpg"
+  },
+  {
+    "author": "Mooji",
+    "phrase": {
+      "es": "Trata a los demás como te gustaría ser tratado: con amabilidad, apertura, amor y respeto.",
+      "en": "Treat others as you would like to be treated: with kindness, openness, love and respect."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F06_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F06.jpg"
+  },
+  {
+    "author": {
+      "es": "Anónimo",
+      "en": "Anonymous"
+    },
+    "phrase": {
+      "es": "El silencio es una forma de comprender la vida.",
+      "en": "Silence is a way to understand life."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F07_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F07.jpg"
+  },
+  {
+    "author": "Christopher Reeve",
+    "phrase": {
+      "es": "El éxito es encontrar satisfacción en dar un poco más de lo que se recibe.",
+      "en": "Success is finding satisfaction in giving a little more than you take."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F08_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F08.jpg"
+  },
+  {
+    "author": "Nisargadatta Maharaj",
+    "phrase": {
+      "es": "La sabiduría me dice que no soy nada. El amor me dice que soy todo. Entre los dos, mi vida fluye.",
+      "en": "Wisdom tells me I am nothing. Love tells me I am everything. Between the two, my life flows."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F09_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F09.jpg"
+  },
+  {
+    "author": "Tony Robbins",
+    "phrase": {
+      "es": "Ponerse metas es el primer paso para convertir lo invisible en visible.",
+      "en": "Setting goals is the first step in turning the invisible into the visible."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F10_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F10.jpg"
+  },
+  {
+    "author": {
+      "es": "Confucio",
+      "en": "Confucius"
+    },
+    "phrase": {
+      "es": "El silencio es un amigo que jamás traiciona.",
+      "en": "Silence is a friend who will never betray."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F11_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F11.jpg"
+  },
+  {
+    "author": "Tony Robbins",
+    "phrase": {
+      "es": "Concéntrate en a dónde quieres ir, no en lo que temes.",
+      "en": "Focus on where you want to go, not on what you fear."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F13_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F13.jpg"
+  },
+  {
+    "author": "Eckhart Tolle",
+    "phrase": {
+      "es": "La vida es una aventura, no es un viaje organizado.",
+      "en": "Life is an adventure, not an organized trip."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F14_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F14.jpg"
+  },
+  {
+    "author": "Pema Chödrön",
+    "phrase": {
+      "es": "No son las cosas que nos suceden en nuestras vidas las que nos hacen sufrir, es la forma en que nos relacionamos con las cosas que nos suceden lo que nos hace sufrir.",
+      "en": "It's not the things that happen to us in our lives that cause us to suffer, it's how we relate to the things that happen to us that causes us to suffer."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F15_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F15.jpg"
+  },
+  {
+    "author": "Napoleon Hill",
+    "phrase": {
+      "es": "Un objetivo es un sueño con un plazo.",
+      "en": "A goal is a dream with a deadline."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F16_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F16.jpg"
+  },
+  {
+    "author": "Richard Davidson",
+    "phrase": {
+      "es": "El entrenamiento de nuestra mente debe ser abordado de la misma manera como el ejercicio de nuestro cuerpo.",
+      "en": "The training of our minds should be approached in the same manner as the exercise of our bodies."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F17_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F17.jpg"
+  },
+  {
+    "author": "Oprah Winfrey",
+    "phrase": {
+      "es": "Si agradeces lo que tienes, siempre tendrás más. Si te concentras en lo que no tienes, nunca tendrás lo suficiente.",
+      "en": "If you concentrate on what you have, you'll always have more. If you focus on what you don't have, you'll never have enough."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F18_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F18.jpg"
+  },
+  {
+    "author": "Jiddu Krishnamurti",
+    "phrase": {
+      "es": "La meditación no es el medio para un fin. Es tanto el medio como el fin. ",
+      "en": "Meditation is not the means to an end. It is both the means and the end."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F19_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F19.jpg"
+  },
+  {
+    "author": "Clarissa Pinkola Estés",
+    "phrase": {
+      "es": "Si vivimos como respiramos, tomando y soltando, no podremos equivocarnos.",
+      "en": "If we live as we breathe, taking and releasing, we cannot make mistakes."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F20_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F20.jpg"
+  },
+  {
+    "author": "Pema Chödrön",
+    "phrase": {
+      "es": "Nos aferramos a la esperanza, y la esperanza nos roba el momento presente.",
+      "en": "We hold on to hope, and hope robs us of the present moment."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F21_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F21.jpg"
+  },
+  {
+    "author": {
+      "es": "Confucio",
+      "en": "Confucius"
+    },
+    "phrase": {
+      "es": "El hombre que mueve montañas empieza apartando piedrecitas.",
+      "en": "The man who moves a mountain begins by carrying away small stones."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F22_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F22.jpg"
+  },
+  {
+    "author": "Thich Nhat Hanh",
+    "phrase": {
+      "es": "El momento presente esta lleno con alegría y felicidad. Si estas atento, lo verás.",
+      "en": "The present moment is filled with joy and happiness. If you are attentive, you will see it."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F23_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F23.jpg"
+  },
+  {
+    "author": "Pema Chödrön",
+    "phrase": {
+      "es": "La práctica de la meditación no se trata de intentar mirar hacia otro lugar para convertirse en algo mejor. Se trata de hacerse amigo de lo que ya somos.",
+      "en": "The practice of meditation is not about trying to turn away to become something better, it's about befriending who we already are."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F24_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F24.jpg"
+  },
+  {
+    "author": "Walt Disney",
+    "phrase": {
+      "es": "Todos tus sueños pueden convertirse en realidad si tienes el coraje de perseguirlos.",
+      "en": "All our dreams can come true, if we have the courage to pursue them."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F25_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F25.jpg"
+  },
+  {
+    "author": "Rumi",
+    "phrase": {
+      "es": "Nacemos del amor. El amor es nuestra madre.",
+      "en": "We are born of love. Love is our mother."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F26_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F26.jpg"
+  },
+  {
+    "author": "Thich Nhat Hanh",
+    "phrase": {
+      "es": "Tenemos que aprender a ver en la aparente muerte de la semilla su transformación en planta.",
+      "en": "We have to learn to see in the apparent death of the seed its transformation into a plant."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F27_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F27.jpg"
+  },
+  {
+    "author": "Carl Jung",
+    "phrase": {
+      "es": "La cosa más aterradora es aceptarse a sí mismo por completo.",
+      "en": "The most terrifying thing is to accept oneself completely."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F28_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F28.jpg"
+  },
+  {
+    "author": "Joseph Campbell",
+    "phrase": {
+      "es": "El sentido de la vida es el que tú le das.",
+      "en": "The meaning of life is whatever you ascribe it to be."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F29_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F29.jpg"
+  },
+  {
+    "author": "Pema Chödrön",
+    "phrase": {
+      "es": "Interrumpir nuestros hábitos destructivos y despertar nuestro corazón es el trabajo de toda una vida.",
+      "en": "Interrupting our destructive habits and awakening our heart is the work of a lifetime."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F30_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F30.jpg"
+  },
+  {
+    "author": "Antoine de Saint-Exupéry",
+    "phrase": {
+      "es": "Sólo conozco una libertad, y esa es la libertad de la mente.",
+      "en": "I only know one freedom, and that is the freedom of the mind."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F31_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F31.jpg"
+  },
+  {
+    "author": {
+      "es": "Epicteto",
+      "en": "Epictetus"
+    },
+    "phrase": {
+      "es": "La naturaleza nos ha dado una boca y dos oídos, para que podamos oír el doble de lo que hablamos.",
+      "en": "Nature has given us one tongue and two ears so we could hear twice as much as we speak."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F32_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F32.jpg"
+  },
+  {
+    "author": "Michel de Montaigne",
+    "phrase": {
+      "es": "A quienes me preguntan la razón de mis viajes les contesto que sé bien de qué huyo pero ignoro lo que busco.",
+      "en": "To those who ask me the reason for my travels I answer that I know well what I am fleeing from but not what I am looking for."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F33_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F33.jpg"
+  },
+  {
+    "author": "Séneca",
+    "phrase": {
+      "es": "No hay viento favorable para el que no sabe adónde va.",
+      "en": "There is no favorable wind for the sailor who doesn’t know where to go."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F34_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F34.jpg"
+  },
+  {
+    "author": "Antoine de Saint-Exupéry",
+    "phrase": {
+      "es": "La perfección no se alcanza cuando no hay nada más que añadir, sino cuando no hay nada más que quitar.",
+      "en": "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F35_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F35.jpg"
+  },
+  {
+    "author": "Paulo Coelho",
+    "phrase": {
+      "es": "La posibilidad de realizar un sueño es lo que hace que la vida sea interesante.",
+      "en": "The possibility of realizing a dream is what makes life interesting."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F37_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F37.jpg"
+  },
+  {
+    "author": "Deepak Chopra",
+    "phrase": {
+      "es": "Te guste o no, todo lo que te está sucediendo en este momento es producto de las decisiones que has tomado en el pasado.",
+      "en": "Like it or not, everything that is happening to you at this moment is a result of the decisions you've made in the past."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F38_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F38.jpg"
+  },
+  {
+    "author": "Ramana Maharshi",
+    "phrase": {
+      "es": "Si quieres ayudar al mundo ayúdate a ti mismo.",
+      "en": "If you want to help the world, help yourself."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F39_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F39.jpg"
+  },
+  {
+    "author": "Antoine de Saint-Exupéry",
+    "phrase": {
+      "es": "El amor es lo único que crece cuando se reparte.",
+      "en": "Love does not consist of gazing at each other, but in looking outward together in the same direction."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F40_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F40.jpg"
+  },
+  {
+    "author": "Jiddu Krishnamurti",
+    "phrase": {
+      "es": "El autoconocimiento no tiene fin. No alcanzas un logro, no llegas a una conclusión. Es un río sin final.",
+      "en": "Self-knowledge has no end - you don't come to an achievement, you don't come to a conclusion. It is an endless river."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F01_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F01.jpg"
+  },
+  {
+    "author": "Ralph Waldo Emerson",
+    "phrase": {
+      "es": "La única manera de tener un buen amigo es ser uno.",
+      "en": "The only way to have a friend is to be one."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F02_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F02.jpg"
+  },
+  {
+    "author": "William Wordsworth",
+    "phrase": {
+      "es": "Para empezar, empieza.",
+      "en": "To begin, begin."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F03_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F03.jpg"
+  },
+  {
+    "author": {
+      "es": "Proverbio Zen",
+      "en": "Zen Proverb"
+    },
+    "phrase": {
+      "es": "Cuando el discípulo está preparado, el maestro aparece.",
+      "en": "When the student is ready, the teacher will appear."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F04_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F04.jpg"
+  },
+  {
+    "author": "Napoleon Hill",
+    "phrase": {
+      "es": "Cualquier cosa que le hagas a otra persona, te lo haces a ti mismo.",
+      "en": "Whatever the mind of man can conceive and believe, it can achieve."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F05_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F05.jpg"
+  },
+  {
+    "author": "Pema Chödrön",
+    "phrase": {
+      "es": "La compasión por los demás comienza con la bondad hacia nosotros mismos.",
+      "en": "Compassion for others begins with kindness to ourselves."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F06_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F06.jpg"
+  },
+  {
+    "author": "Albert Einstein",
+    "phrase": {
+      "es": "La imaginación es más importante que el conocimiento.",
+      "en": "Imagination is more important than knowledge."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F07_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F07.jpg"
+  },
+  {
+    "author": "Ralph Waldo Emerson",
+    "phrase": {
+      "es": "No vayas a donde el camino te lleve, ve a donde no hay camino y deja un rastro.",
+      "en": "Do not follow where the path may lead. Go instead where there is no path and leave a trail."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F08_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F08.jpg"
+  },
+  {
+    "author": "Séneca",
+    "phrase": {
+      "es": "No es pobre el que tiene poco, sino el que mucho desea.",
+      "en": "It is not the man who has too little, but the man who craves more, that is poor."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F09_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F09.jpg"
+  },
+  {
+    "author": "Mooji",
+    "phrase": {
+      "es": "Si buscas la aprobación de otros en este mundo, no conocerás la felicidad.",
+      "en": "If you are seeking approval in this world, you will not know happiness."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F10_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F10.jpg"
+  },
+  {
+    "author": "Alan Watts",
+    "phrase": {
+      "es": "Cuanto más tiende una cosa a ser permanente, más tiende a carecer de vida.",
+      "en": "The more a thing tends to be permanent, the more it tends to be lifeless."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F11_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F11.jpg"
+  },
+  {
+    "author": "Ralph Waldo Emerson",
+    "phrase": {
+      "es": "Adopta el ritmo de la naturaleza: su secreto es la paciencia.",
+      "en": "Adopt the pace of nature: her secret is patience."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F12_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F12.jpg"
+  },
+  {
+    "author": "Thich Nhat Hanh",
+    "phrase": {
+      "es": "Es esencial que entiendas que las emociones aparecen, perduran y acaban desapareciendo.",
+      "en": "It is essential that we understand that emotions appear, endure and fade away."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F13_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F13.jpg"
+  },
+  {
+    "author": "Eckhart Tolle",
+    "phrase": {
+      "es": "La vida no es tan grave como la mente hace que sea.",
+      "en": "Life is not as serious as the mind makes it out to be."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F14_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F14.jpg"
+  },
+  {
+    "author": "Antoine de Saint-Exupéry",
+    "phrase": {
+      "es": "El mundo entero se aparta cuando ve pasar a un hombre que sabe adónde va.",
+      "en": "The whole world steps aside for the man who knows where he is going."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F15_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F15.jpg"
+  },
+  {
+    "author": "Thich Nhat Hanh",
+    "phrase": {
+      "es": "La mejor manera de cuidar el futuro es cuidar el momento presente.",
+      "en": "The best way to take care of the future is to take care of the present moment."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F16_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F16.jpg"
+  },
+  {
+    "author": {
+      "es": "Marco Aurelio",
+      "en": "Marcus Aurelius"
+    },
+    "phrase": {
+      "es": "Realiza cada una de tus acciones como si fuera la última de tu vida.",
+      "en": "Perform every act in life as though it were your last."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F17_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F17.jpg"
+  },
+  {
+    "author": "Eckhart Tolle",
+    "phrase": {
+      "es": "Todas las cosas que realmente importan, la belleza, el amor, la creatividad, la alegría y la paz interior surgen más allá de la mente.",
+      "en": "All the things that truly matter, beauty, love, creativity, joy and inner peace arise from beyond the mind."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F18_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F18.jpg"
+  },
+  {
+    "author": "Farrah Gray",
+    "phrase": {
+      "es": "Construye tus propios sueños o alguien te contratará para que construyas los suyos.",
+      "en": "Build your own dreams, or someone else will hire you to build theirs."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F19_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F19.jpg"
+  },
+  {
+    "author": "Daniel Goleman",
+    "phrase": {
+      "es": "Tal vez no haya habilidad psicológica más esencial que la de resistir al impulso.",
+      "en": "The most fundamental aggression to ourselves, the most fundamental harm we can do to ourselves, is to remain ignorant by not having the courage and the respect to look at ourselves honestly and gently."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F20_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F20.jpg"
+  },
+  {
+    "author": "Jorge Luis Borges",
+    "phrase": {
+      "es": "La muerte es una vida vivida. La vida es una muerte que viene.",
+      "en": "Death is a life lived. Life is a death that is coming."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F21_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F21.jpg"
+  },
+  {
+    "author": "Carl Jung",
+    "phrase": {
+      "es": "Todo depende de cómo vemos las cosas, y no de cómo son por sí mismas.",
+      "en": "Everything that irritates us about others can lead us to an understanding of ourselves."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F22_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F22.jpg"
+  },
+  {
+    "author": "Ramana Maharshi",
+    "phrase": {
+      "es": "No hay pasado ni futuro. Sólo existe el presente. Ayer era presente para ti cuando lo experimentabas, y mañana será presente, cuando lo experimentes.",
+      "en": "There is no past nor future. There is only the present. Yesterday was present to you when you experienced it, and tomorrow will be present when you experience it."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F23_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F23.jpg"
+  },
+  {
+    "author": "Eckhart Tolle",
+    "phrase": {
+      "es": "Si hay personas que no has logrado perdonar, no vas a despertar realmente. Tienes que dejar ir.",
+      "en": "If there are people you haven't forgiven, you're not going to really awaken. You have to let go."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F24_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F24.jpg"
+  },
+  {
+    "author": "Dōgen Zenji",
+    "phrase": {
+      "es": "Ten abiertas las manos y toda la arena del desierto pasará por ellas. Ciérralas y sólo conseguirás unos pocos granos.",
+      "en": "Have your hands open, and all the sands of the desert can pass through them. Close them, and all you feel is a bit of grit.'"
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F25_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F25.jpg"
+  },
+  {
+    "author": "Adyashanti",
+    "phrase": {
+      "es": "La iluminación no es más que la ausencia total de resistencia a lo que es. Fin de la historia.",
+      "en": "Enlightenment is nothing more than the complete absence of resistance to what is. End of story."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F26_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F26.jpg"
+  },
+  {
+    "author": "Daniel Goleman",
+    "phrase": {
+      "es": "Todas las emociones son, en esencia, impulsos que nos llevan a actuar, programas de reacción automática con los que nos ha dotado la evolución.",
+      "en": "All emotions are, in essence, impulses to act, the instant plans for handling life that evolution has instilled in us."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F27_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F27.jpg"
+  },
+  {
+    "author": "Eckhart Tolle",
+    "phrase": {
+      "es": "Estar a gusto con no saber es crucial para que las respuestas vengan a ti.",
+      "en": "Being at ease with not knowing is crucial for answers to come to you."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F29_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F29.jpg"
+  },
+  {
+    "author": "Suzanne Powell",
+    "phrase": {
+      "es": "No juzgues a nadie para no ser juzgado, no dañes para no ser dañado. Sé el ejemplo a seguir para los demás.",
+      "en": "Do not judge so you won’t be judged, don’t harm so you won’t be harmed. Be the example for others."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F30_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F30.jpg"
+  },
+  {
+    "author": {
+      "es": "Confucio",
+      "en": "Confucius"
+    },
+    "phrase": {
+      "es": "Quien volviendo a hacer el camino viejo aprende el nuevo, puede considerarse un maestro.",
+      "en": "He who learns but does not think, is lost! He who thinks but does not learn is in great danger."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F31_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F31.jpg"
+  },
+  {
+    "author": "Michel de Montaigne",
+    "phrase": {
+      "es": "Una prueba de la propia bondad está en confiar en la bondad de los demás.",
+      "en": "The greatest thing in the world is to know how to belong to oneself."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F32_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F32.jpg"
+  },
+  {
+    "author": "Eckhart Tolle",
+    "phrase": {
+      "es": "Si no es ahora, ¿cuándo?",
+      "en": "If not now, when?"
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F33_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F33.jpg"
+  },
+  {
+    "author": "Rumi",
+    "phrase": {
+      "es": "Eleva tus palabras, no la voz. Es la lluvia lo que hace crecer las flores, no los truenos.",
+      "en": "Raise your words, not voice. It is rain that grows flowers, not thunder."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F34_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F34.jpg"
+  },
+  {
+    "author": "Pema Chödrön",
+    "phrase": {
+      "es": "La curación proviene de dejar espacio para que todo suceda: espacio para el dolor, para el alivio, para la miseria, para la alegría.",
+      "en": "Healing comes from letting there be room for all of this to happen: room for grief, for relief, for misery, for joy."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F35_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F35.jpg"
+  },
+  {
+    "author": "Carl Jung",
+    "phrase": {
+      "es": "El conocimiento de tu propia oscuridad es el mejor método para hacer frente a las tinieblas de otras personas.",
+      "en": "Knowing your own darkness is the best method for dealing with the darknesses of other people."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F36_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F36.jpg"
+  },
+  {
+    "author": "Jiddu Krishnamurti",
+    "phrase": {
+      "es": "El amor no es reacción. Si yo te amo porque tu me amas, hay un simple trato, algo que se puede comprar en el mercado; eso no es amor.",
+      "en": "Love is not a reaction. If I love you because you love me, that is mere trade, a thing to be bought in the market; it is not love."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F37_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F37.jpg"
+  },
+  {
+    "author": "Lao Tzu",
+    "phrase": {
+      "es": "Si no cambias la dirección, puedes terminar donde has comenzado.",
+      "en": "If you do not change direction, you may end up where you are heading."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F38_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F38.jpg"
+  },
+  {
+    "author": "Adyashanti",
+    "phrase": {
+      "es": "La verdadera meditación no tiene dirección ni meta. Es pura rendición sin palabras, pura oración silenciosa.",
+      "en": "True meditation has no direction or goal. It is pure wordless surrender, pure silent prayer."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F39_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F39.jpg"
+  },
+  {
+    "author": {
+      "es": "Confucio",
+      "en": "Confucius"
+    },
+    "phrase": {
+      "es": "Tenemos dos vidas. La segunda empieza cuando nos damos cuenta de que solo tenemos una.",
+      "en": "We have two lives, and the second begins when we realize we only have one."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F40_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F40.jpg"
+  },
+  {
+    "author": "Rumi",
+    "phrase": {
+      "es": "Trabaja en el mundo invisible al menos tan duro como haces en el visible.",
+      "en": "Work in the invisible world at least as hard as you do in the visible."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F01_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F01.jpg"
+  },
+  {
+    "author": "Maharishi Mahesh Yogi",
+    "phrase": {
+      "es": "Todo lo que somos es el resultado de lo que hemos pensado. La mente lo es todo. En lo que pensamos, nos convertimos.",
+      "en": "You are very powerful, provided you know how powerful you are."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F02_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F02.jpg"
+  },
+  {
+    "author": "Nelson Mandela",
+    "phrase": {
+      "es": "Después de subir una gran colina, uno encuentra que hay muchas más colinas para subir.",
+      "en": "After climbing a great hill, one only finds that there are many more hills to climb."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F03_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F03.jpg"
+  },
+  {
+    "author": {
+      "es": "Epicteto",
+      "en": "Epictetus"
+    },
+    "phrase": {
+      "es": "El infortunio pone a prueba a los amigos y descubre a los enemigos.",
+      "en": "Prosperity is no just scale; adversity is the only balance to weigh friends."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F04_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F04.jpg"
+  },
+  {
+    "author": "Pema Chödrön",
+    "phrase": {
+      "es": "La verdadera compasión no consiste en desear ayudar a aquellos que son menos afortunados que nosotros, sino en darnos cuenta de nuestro parentesco con todos los seres.",
+      "en": "The most fundamental aggression to ourselves, the most fundamental harm we can do to ourselves, is to remain ignorant by not having the courage and the respect to look at ourselves honestly and gently."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F05_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F05.jpg"
+  },
+  {
+    "author": "Lao Tzu",
+    "phrase": {
+      "es": "Cuando dejo de ser lo que soy, me convierto en lo que podría ser.",
+      "en": "When I let go of what I am, I become what I might be."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F06_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F06.jpg"
+  },
+  {
+    "author": "Thich Nhat Hanh",
+    "phrase": {
+      "es": "Nuestra propia vida tiene que ser nuestro mensaje.",
+      "en": "Our own life has to be our message."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F07_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F07.jpg"
+  },
+  {
+    "author": "Rembrandt",
+    "phrase": {
+      "es": "Elige sólo una maestra; la naturaleza.",
+      "en": "Choose only one teacher; nature."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F08_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F08.jpg"
+  },
+  {
+    "author": "Louise Hay",
+    "phrase": {
+      "es": "No hay problema, ni demasiado grande ni demasiado pequeño, que el amor no pueda resolver.",
+      "en": "There is no problem so big or so small that it cannot be solved with love."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F08_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F08.jpg"
+  },
+  {
+    "author": "Katrina Mayer",
+    "phrase": {
+      "es": "El tiempo que se pasa entre árboles nunca es tiempo perdido.",
+      "en": "Time spent amongst trees is never wasted time."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F08_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F08.jpg"
+  },
+  {
+    "author": "Thich Nhat Hanh",
+    "phrase": {
+      "es": "La gente sacrifica el presente por el futuro. Pero la vida solo esta disponible en el presente.",
+      "en": "People sacrifice the present for the future. But life is available only in the present."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F09_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F09.jpg"
+  },
+  {
+    "author": "Brené Brown",
+    "phrase": {
+      "es": "La vulnerabilidad es un riesgo que tenemos que correr si queremos experimentar la conexión.",
+      "en": "Staying vulnerable is a risk we have to take if we want to experience connection."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F10_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F10.jpg"
+  },
+  {
+    "author": "Dōgen Zenji",
+    "phrase": {
+      "es": "Si eres incapaz de encontrar la verdad justo donde te encuentras, ¿dónde más esperas encontrarla? ",
+      "en": "If you are unable to find the truth right where you are, where else do you expect to find it?"
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F11_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F11.jpg"
+  },
+  {
+    "author": "Brené Brown",
+    "phrase": {
+      "es": "No preguntes qué es lo que el mundo necesita. Pregunta qué es lo que te hace sentir vivo y hazlo. Porque lo que el mundo necesita son personas que estén vivas.",
+      "en": "Don't ask what the world needs. Ask what makes you come alive, and go do it. Because what the world needs is people who have come alive."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F12_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F12.jpg"
+  },
+  {
+    "author": "Deepak Chopra",
+    "phrase": {
+      "es": "No existen pedazos extra en el universo. Cada uno está aquí porque él o ella tiene un puesto para llenar, y cada pedazo debe encajar bien en este puzzle gigante.",
+      "en": "There are no extra pieces in the universe. Everyone is here because he or she has a place to fill, and every piece must fit itself into the big jigsaw puzzle."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F13_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F13.jpg"
+  },
+  {
+    "author": "Lao Tzu",
+    "phrase": {
+      "es": "Preocúpate por lo que piensen los demás y siempre serás su prisionero.",
+      "en": "Care about what other people think and you will always be their prisoner."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F14_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F14.jpg"
+  },
+  {
+    "author": "Bob Marley",
+    "phrase": {
+      "es": "Emancípense de la esclavitud mental, nadie más que nosotros puede liberar nuestras mentes.",
+      "en": "Emancipate yourselves from mental slavery. None but ourselves can free our minds."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F15_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F15.jpg"
+  },
+  {
+    "author": "Robert Swan",
+    "phrase": {
+      "es": "La peor amenaza para nuestro planeta es la creencia de que alguien lo salvará.",
+      "en": "The greatest threat to our planet is the belief that someone else will save it."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F16_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F16.jpg"
+  },
+  {
+    "author": "Abraham Lincoln",
+    "phrase": {
+      "es": "Al final, lo que importa no son los años de vida, sino la vida de los años.",
+      "en": "And in the end, it's not the years in your life that count. It's the life in your years."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F17_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F17.jpg"
+  },
+  {
+    "author": {
+      "es": "Proverbio Chino",
+      "en": "Chinese Proverb"
+    },
+    "phrase": {
+      "es": "El miedo llamó a la puerta, la confianza abrió y fuera no había nadie.",
+      "en": "Fear knocked at the door. Faith answered. There was no one there."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F18_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F18.jpg"
+  },
+  {
+    "author": {
+      "es": "Heráclito",
+      "en": "Heraclitus"
+    },
+    "phrase": {
+      "es": "Nada es permanente a excepción del cambio.",
+      "en": "Nothing is permanent except change."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F19_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F19.jpg"
+  },
+  {
+    "author": "Theodore Roosevelt",
+    "phrase": {
+      "es": "El único hombre que no se equivoca es el que nunca hace nada.",
+      "en": "The only man who never makes a mistake is the man who never does anything."
+    },
+    "thumbnailUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F20_400x400.jpg",
+    "imageUrl": "https://storage.googleapis.com/puramente-prod/DailyPhrases%2F20.jpg"
+  }
+]

@@ -1,0 +1,39 @@
+package com.revenuecat.purchases;
+
+import com.revenuecat.purchases.interfaces.ReceiveCustomerInfoCallback;
+import io.branch.rnbranch.RNBranchModule;
+import kotlin.Metadata;
+import kotlin.jvm.internal.C6496s;
+import kotlin.jvm.internal.C6498u;
+import lf.C6514M;
+import yf.C6787a;
+import yf.C6798l;
+
+@Metadata(d1 = {"\u0000\u000e\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0002\b\u0003\u0010\u0005\u001a\u00020\u00022\u0006\u0010\u0001\u001a\u00020\u0000H\n¢\u0006\u0004\b\u0003\u0010\u0004"}, d2 = {"Lcom/revenuecat/purchases/PurchasesError;", "error", "Llf/M;", "invoke", "(Lcom/revenuecat/purchases/PurchasesError;)V", "<anonymous>"}, k = 3, mv = {1, 8, 0})
+final class PurchasesOrchestrator$restorePurchases$2 extends C6498u implements C6798l {
+    final /* synthetic */ ReceiveCustomerInfoCallback $callback;
+    final /* synthetic */ PurchasesOrchestrator this$0;
+
+    /* JADX INFO: super call moved to the top of the method (can break code semantics) */
+    PurchasesOrchestrator$restorePurchases$2(PurchasesOrchestrator purchasesOrchestrator, ReceiveCustomerInfoCallback receiveCustomerInfoCallback) {
+        super(1);
+        this.this$0 = purchasesOrchestrator;
+        this.$callback = receiveCustomerInfoCallback;
+    }
+
+    public /* bridge */ /* synthetic */ Object invoke(Object obj) {
+        invoke((PurchasesError) obj);
+        return C6514M.f71813a;
+    }
+
+    public final void invoke(final PurchasesError purchasesError) {
+        C6496s.h(purchasesError, RNBranchModule.NATIVE_INIT_SESSION_FINISHED_EVENT_ERROR);
+        PurchasesOrchestrator purchasesOrchestrator = this.this$0;
+        final ReceiveCustomerInfoCallback receiveCustomerInfoCallback = this.$callback;
+        purchasesOrchestrator.dispatch(new C6787a() {
+            public final void invoke() {
+                receiveCustomerInfoCallback.onError(purchasesError);
+            }
+        });
+    }
+}

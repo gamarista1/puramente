@@ -1,0 +1,7 @@
+package A;
+
+public abstract class k {
+    public static final float a(int i10, int i11, int i12, int i13, int i14, int i15, j jVar, int i16) {
+        return ((float) i14) - ((float) jVar.a(i10, i13, i11, i12, i15, i16));
+    }
+}

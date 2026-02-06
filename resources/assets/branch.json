@@ -1,0 +1,6 @@
+{
+  "liveKey": "key_live_hbRbbBWEGHnSxOR3a0rnQbemEylIzsBO",
+  "testKey": "key_test_poQdiFZuNUdUsKL3mXzH8aakuueIwEEY",
+  "useTestInstance": false,
+  "deferInitForPluginRuntime": true
+}

@@ -1,0 +1,16 @@
+package com.google.android.gms.internal.auth;
+
+import com.google.android.gms.common.api.Status;
+import com.google.android.gms.common.api.k;
+
+final class zzaj implements k {
+    private final Status zza;
+
+    public zzaj(Status status) {
+        this.zza = status;
+    }
+
+    public final Status getStatus() {
+        return this.zza;
+    }
+}

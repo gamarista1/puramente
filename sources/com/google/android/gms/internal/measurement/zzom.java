@@ -1,0 +1,9 @@
+package com.google.android.gms.internal.measurement;
+
+public interface zzom {
+    boolean zza();
+
+    boolean zzb();
+
+    boolean zzc();
+}

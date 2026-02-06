@@ -1,0 +1,22 @@
+package ph;
+
+import android.content.ComponentName;
+import android.content.Context;
+import android.net.Uri;
+import android.os.Bundle;
+import java.util.ArrayList;
+import java.util.List;
+import oh.C6629a;
+
+public class g implements C6629a {
+    public List a() {
+        return new ArrayList(0);
+    }
+
+    public void b(Context context, ComponentName componentName, int i10) {
+        Bundle bundle = new Bundle();
+        bundle.putInt("app_badge_count", i10);
+        bundle.putString("app_badge_component_name", componentName.flattenToString());
+        context.getContentResolver().call(Uri.parse("content://com.android.launcher3.cornermark.unreadbadge"), "setAppUnreadCount", (String) null, bundle);
+    }
+}

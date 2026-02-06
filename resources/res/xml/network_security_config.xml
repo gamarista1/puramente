@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <base-config cleartextTrafficPermitted="false">
+        <trust-anchors>
+            <certificates src="system"/>
+            <certificates src="user"/>
+        </trust-anchors>
+    </base-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">r2storage.puramente.app
+        </domain>
+        <domain includeSubdomains="true">storage.r2.puramente.app
+        </domain>
+        <domain includeSubdomains="true">127.0.0.1
+        </domain>
+        <domain includeSubdomains="true">10.0.0.1
+        </domain>
+        <domain includeSubdomains="true">10.0.2.2
+        </domain>
+        <domain includeSubdomains="true">10.0.3.2
+        </domain>
+        <domain includeSubdomains="true">localhost
+        </domain>
+        <trust-anchors>
+            <certificates src="system"/>
+            <certificates src="user"/>
+        </trust-anchors>
+    </domain-config>
+</network-security-config>

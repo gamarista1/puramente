@@ -1,0 +1,9 @@
+package gi;
+
+import java.lang.annotation.Retention;
+import java.lang.annotation.RetentionPolicy;
+
+@Retention(RetentionPolicy.RUNTIME)
+public @interface g {
+    String value() default "";
+}

@@ -1,0 +1,17 @@
+package com.google.android.gms.internal.auth;
+
+import android.util.Log;
+import com.adjust.sdk.Constants;
+import com.google.android.gms.common.server.response.b;
+import java.io.UnsupportedEncodingException;
+
+public abstract class zzbz extends b {
+    public final byte[] toByteArray() {
+        try {
+            return toString().getBytes(Constants.ENCODING);
+        } catch (UnsupportedEncodingException e10) {
+            Log.e("AUTH", "Error serializing object.", e10);
+            return null;
+        }
+    }
+}

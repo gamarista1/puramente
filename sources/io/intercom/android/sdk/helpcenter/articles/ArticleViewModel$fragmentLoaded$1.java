@@ -1,0 +1,86 @@
+package io.intercom.android.sdk.helpcenter.articles;
+
+import Ug.K;
+import Xg.x;
+import io.intercom.android.sdk.helpcenter.api.HelpCenterApi;
+import io.intercom.android.sdk.helpcenter.articles.ArticleViewState;
+import io.intercom.android.sdk.helpcenter.utils.networking.NetworkResponse;
+import io.intercom.android.sdk.models.OpenMessengerResponse;
+import java.util.Map;
+import kotlin.Metadata;
+import kotlin.coroutines.jvm.internal.f;
+import kotlin.coroutines.jvm.internal.l;
+import kotlin.jvm.internal.DefaultConstructorMarker;
+import lf.C6514M;
+import lf.C6535s;
+import lf.w;
+import qf.C6658d;
+import rf.C6680b;
+import yf.p;
+
+@Metadata(d1 = {"\u0000\f\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\b\u0002\u0010\u0002\u001a\u00020\u0001*\u00020\u0000H\n¢\u0006\u0004\b\u0002\u0010\u0003"}, d2 = {"LUg/K;", "Llf/M;", "<anonymous>", "(LUg/K;)V"}, k = 3, mv = {2, 0, 0})
+@f(c = "io.intercom.android.sdk.helpcenter.articles.ArticleViewModel$fragmentLoaded$1", f = "ArticleViewModel.kt", l = {88}, m = "invokeSuspend")
+final class ArticleViewModel$fragmentLoaded$1 extends l implements p {
+    final /* synthetic */ String $articleId;
+    final /* synthetic */ ArticleViewState.Content $defaultState;
+    int label;
+    final /* synthetic */ ArticleViewModel this$0;
+
+    /* JADX INFO: super call moved to the top of the method (can break code semantics) */
+    ArticleViewModel$fragmentLoaded$1(ArticleViewModel articleViewModel, String str, ArticleViewState.Content content, C6658d<? super ArticleViewModel$fragmentLoaded$1> dVar) {
+        super(2, dVar);
+        this.this$0 = articleViewModel;
+        this.$articleId = str;
+        this.$defaultState = content;
+    }
+
+    public final C6658d<C6514M> create(Object obj, C6658d<?> dVar) {
+        return new ArticleViewModel$fragmentLoaded$1(this.this$0, this.$articleId, this.$defaultState, dVar);
+    }
+
+    public final Object invoke(K k10, C6658d<? super C6514M> dVar) {
+        return ((ArticleViewModel$fragmentLoaded$1) create(k10, dVar)).invokeSuspend(C6514M.f71813a);
+    }
+
+    public final Object invokeSuspend(Object obj) {
+        Object obj2;
+        Object f10 = C6680b.f();
+        int i10 = this.label;
+        if (i10 == 0) {
+            w.b(obj);
+            HelpCenterApi access$getHelpCenterApi$p = this.this$0.helpCenterApi;
+            String str = this.$articleId;
+            this.label = 1;
+            obj2 = HelpCenterApi.DefaultImpls.fetchArticle$default(access$getHelpCenterApi$p, str, (Map) null, this, 2, (Object) null);
+            if (obj2 == f10) {
+                return f10;
+            }
+        } else if (i10 == 1) {
+            w.b(obj);
+            obj2 = obj;
+        } else {
+            throw new IllegalStateException("call to 'resume' before 'invoke' with coroutine");
+        }
+        NetworkResponse networkResponse = (NetworkResponse) obj2;
+        if ((networkResponse instanceof NetworkResponse.ClientError) || (networkResponse instanceof NetworkResponse.NetworkError) || (networkResponse instanceof NetworkResponse.ServerError)) {
+            this.this$0._state.setValue(ArticleViewState.Content.copy$default(this.$defaultState, (String) null, (ArticleMetadata) null, ArticleViewState.WebViewStatus.Idle, (ArticleViewState.ReactionState) null, (ArticleViewState.TeamPresenceState) null, 27, (Object) null));
+        } else if (networkResponse instanceof NetworkResponse.Success) {
+            NetworkResponse.Success success = (NetworkResponse.Success) networkResponse;
+            String relatedConversationId = ((ArticleResponse) success.getBody()).getArticle().getRelatedConversationId();
+            ArticleViewState.TeamPresenceState teamPresenceState = null;
+            if (relatedConversationId != null) {
+                teamPresenceState = ArticleViewState.TeamPresenceState.copy$default(ArticleViewState.TeamPresenceState.Companion.getDefaultTeamPresenceState(), (ArticleMetadata) null, new ArticleViewState.ConversationState(relatedConversationId, 0, 2, (DefaultConstructorMarker) null), (Integer) null, 0, 0, 0, (String) null, (String) null, false, (OpenMessengerResponse.NewConversationData.Cta) null, 1021, (Object) null);
+            }
+            x access$get_state$p = this.this$0._state;
+            ArticleViewState.WebViewStatus webViewStatus = ArticleViewState.WebViewStatus.Idle;
+            if (teamPresenceState == null) {
+                teamPresenceState = ArticleViewState.TeamPresenceState.Companion.getDefaultTeamPresenceState();
+            }
+            ArticleMetadata articleMetadata = new ArticleMetadata(((ArticleResponse) success.getBody()).getArticle().getCard().getArticleId(), ((ArticleResponse) success.getBody()).getArticle().getCard().getTitle());
+            access$get_state$p.setValue(ArticleViewState.Content.copy$default(this.$defaultState, (String) null, articleMetadata, webViewStatus, (ArticleViewState.ReactionState) null, teamPresenceState, 9, (Object) null));
+        } else {
+            throw new C6535s();
+        }
+        return C6514M.f71813a;
+    }
+}

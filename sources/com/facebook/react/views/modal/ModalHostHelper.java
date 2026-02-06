@@ -1,0 +1,48 @@
+package com.facebook.react.views.modal;
+
+import android.content.Context;
+import android.content.res.Resources;
+import android.content.res.TypedArray;
+import android.graphics.Point;
+import android.view.Display;
+import android.view.WindowManager;
+import kotlin.Metadata;
+import kotlin.jvm.internal.C6496s;
+import lf.C6521e;
+
+@Metadata(d1 = {"\u0000\u001a\n\u0002\u0018\u0002\n\u0002\u0010\u0000\n\u0002\b\u0003\n\u0002\u0018\u0002\n\u0002\b\u0004\n\u0002\u0018\u0002\n\u0000\bÁ\u0002\u0018\u00002\u00020\u0001B\t\b\u0002¢\u0006\u0004\b\u0002\u0010\u0003J\u0010\u0010\b\u001a\u00020\u00052\u0006\u0010\t\u001a\u00020\nH\u0007R\u000e\u0010\u0004\u001a\u00020\u0005X\u0004¢\u0006\u0002\n\u0000R\u000e\u0010\u0006\u001a\u00020\u0005X\u0004¢\u0006\u0002\n\u0000R\u000e\u0010\u0007\u001a\u00020\u0005X\u0004¢\u0006\u0002\n\u0000¨\u0006\u000b"}, d2 = {"Lcom/facebook/react/views/modal/ModalHostHelper;", "", "<init>", "()V", "MIN_POINT", "Landroid/graphics/Point;", "MAX_POINT", "SIZE_POINT", "getModalHostSize", "context", "Landroid/content/Context;", "ReactAndroid_release"}, k = 1, mv = {2, 0, 0}, xi = 48)
+@C6521e
+public final class ModalHostHelper {
+    public static final ModalHostHelper INSTANCE = new ModalHostHelper();
+    private static final Point MAX_POINT = new Point();
+    private static final Point MIN_POINT = new Point();
+    private static final Point SIZE_POINT = new Point();
+
+    private ModalHostHelper() {
+    }
+
+    public static final Point getModalHostSize(Context context) {
+        C6496s.h(context, "context");
+        Object systemService = context.getSystemService("window");
+        C6496s.f(systemService, "null cannot be cast to non-null type android.view.WindowManager");
+        Display defaultDisplay = ((WindowManager) systemService).getDefaultDisplay();
+        Point point = MIN_POINT;
+        Point point2 = MAX_POINT;
+        defaultDisplay.getCurrentSizeRange(point, point2);
+        Point point3 = SIZE_POINT;
+        defaultDisplay.getSize(point3);
+        TypedArray obtainStyledAttributes = context.getTheme().obtainStyledAttributes(new int[]{16843277});
+        C6496s.g(obtainStyledAttributes, "obtainStyledAttributes(...)");
+        int i10 = 0;
+        boolean z10 = obtainStyledAttributes.getBoolean(0, false);
+        Resources resources = context.getResources();
+        int identifier = resources.getIdentifier("status_bar_height", "dimen", "android");
+        if (z10 && identifier > 0) {
+            i10 = (int) resources.getDimension(identifier);
+        }
+        if (point3.x < point3.y) {
+            return new Point(point.x, point2.y + i10);
+        }
+        return new Point(point2.x, point.y + i10);
+    }
+}

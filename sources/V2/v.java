@@ -1,0 +1,10 @@
+package v2;
+
+import java.util.Comparator;
+import v2.n;
+
+public final /* synthetic */ class v implements Comparator {
+    public final int compare(Object obj, Object obj2) {
+        return n.j.f((n.j) obj, (n.j) obj2);
+    }
+}

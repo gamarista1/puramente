@@ -1,0 +1,26 @@
+package Db;
+
+import android.content.Context;
+import com.google.android.gms.tasks.OnSuccessListener;
+import com.google.android.gms.tasks.TaskCompletionSource;
+import com.google.firebase.auth.C4791i;
+
+/* renamed from: Db.z  reason: case insensitive filesystem */
+final class C4277z implements OnSuccessListener {
+
+    /* renamed from: a  reason: collision with root package name */
+    private final /* synthetic */ TaskCompletionSource f50578a;
+
+    /* renamed from: b  reason: collision with root package name */
+    private final /* synthetic */ Context f50579b;
+
+    C4277z(C4275x xVar, TaskCompletionSource taskCompletionSource, Context context) {
+        this.f50578a = taskCompletionSource;
+        this.f50579b = context;
+    }
+
+    public final /* synthetic */ void onSuccess(Object obj) {
+        this.f50578a.setResult((C4791i) obj);
+        C4275x.g(this.f50579b);
+    }
+}

@@ -1,0 +1,39 @@
+package com.fasterxml.jackson.databind.deser;
+
+import com.fasterxml.jackson.core.JsonLocation;
+
+public class UnresolvedId {
+    private final Object _id;
+    private final JsonLocation _location;
+    private final Class<?> _type;
+
+    public UnresolvedId(Object obj, Class<?> cls, JsonLocation jsonLocation) {
+        this._id = obj;
+        this._type = cls;
+        this._location = jsonLocation;
+    }
+
+    public Object getId() {
+        return this._id;
+    }
+
+    public JsonLocation getLocation() {
+        return this._location;
+    }
+
+    public Class<?> getType() {
+        return this._type;
+    }
+
+    public String toString() {
+        String str;
+        Object obj = this._id;
+        Class<?> cls = this._type;
+        if (cls == null) {
+            str = "NULL";
+        } else {
+            str = cls.getName();
+        }
+        return String.format("Object id [%s] (for %s) at %s", new Object[]{obj, str, this._location});
+    }
+}

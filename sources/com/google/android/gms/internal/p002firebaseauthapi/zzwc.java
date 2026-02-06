@@ -1,0 +1,23 @@
+package com.google.android.gms.internal.p002firebaseauthapi;
+
+import java.security.GeneralSecurityException;
+import javax.crypto.Cipher;
+
+/* renamed from: com.google.android.gms.internal.firebase-auth-api.zzwc  reason: invalid package */
+final class zzwc extends ThreadLocal<Cipher> {
+    zzwc() {
+    }
+
+    private static Cipher zza() {
+        try {
+            return zzwv.zza.zza("AES/CTR/NOPADDING");
+        } catch (GeneralSecurityException e10) {
+            throw new IllegalStateException(e10);
+        }
+    }
+
+    /* access modifiers changed from: protected */
+    public final /* synthetic */ Object initialValue() {
+        return zza();
+    }
+}
