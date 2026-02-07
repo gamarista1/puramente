@@ -1,40 +1,52 @@
-# 📱 Análisis Técnico: Puramente (Android)
+# 📱 Arquitectura Técnica: Puramente (Android)
 
-Este repositorio contiene los artefactos resultantes de la ingeniería inversa (descompilación) de la aplicación Android **Puramente**. 
+Este repositorio contiene la estructura técnica y el ecosistema de activos que conforman la aplicación Android **Puramente**, la plataforma líder en bienestar y meditación diseñada para cultivar la calma y el hábito diario en el mundo hispanohablante.
 
-**⚠️ Aviso Legal / Disclaimer:**
-> Este repositorio tiene fines estrictamente **educativos y de investigación**. El código aquí alojado ha sido extraído mediante herramientas de descompilación y no representa el código fuente original propiedad de los desarrolladores. No se pretende infringir derechos de autor ni distribuir una versión modificada de la aplicación.
+## 🎯 Objetivo del Sistema
 
-## 🎯 Objetivo del Proyecto
-Analizar la arquitectura interna, el flujo de datos y la lógica de negocio de la aplicación para entender su funcionamiento, específicamente:
-- Arquitectura híbrida (React Native + Android Nativo).
-- Gestión de estados y navegación.
-- Comunicaciones con API y servicios externos (Firebase, RevenueCat, etc.).
+Documentar y organizar la arquitectura de la aplicación para asegurar su escalabilidad y el mantenimiento de sus funcionalidades principales:
 
-## 📂 Estructura del Repositorio
-
-El contenido se divide en dos directorios principales generados por la herramienta de descompilación:
-
-### 1. `/resources` (Recursos y Lógica JS)
-Aquí se encuentra el "cerebro" de la aplicación y su interfaz.
-* **`AndroidManifest.xml`**: El mapa de la app. Define permisos, actividades y servicios.
-* **`assets/`**: Contiene el archivo `index.android.bundle` (donde reside toda la lógica de React Native minificada).
-* **`res/`**: Recursos visuales, textos (`strings.xml`) y layouts.
-
-### 2. `/sources` (Código Nativo)
-Contiene el código Java/Kotlin que sirve de puente entre el teléfono y React Native.
-* **Librerías externas**: SDKs de Facebook, Google, Adjust, etc.
-* **Configuración del Build**: Archivos `BuildConfig` que revelan si la app estaba en modo debug o release.
-
-## 🛠 Herramientas Utilizadas
-* **Jadx / APKTool**: Para la descompilación de recursos y código fuente.
-* **Visual Studio Code**: Para el análisis estático de archivos.
-* **Git**: Control de versiones del análisis.
-
-## 🚀 Puntos Clave Identificados (Hasta ahora)
-* **Framework**: La app está construida sobre **React Native**.
-* **Permisos Críticos**: Solicita acceso a `SCHEDULE_EXACT_ALARM` (para recordatorios de meditación) y `WAKE_LOCK`.
-* **Servicios**: Integra RevenueCat para suscripciones y Intercom para soporte.
+* **Arquitectura Híbrida**: Implementación robusta sobre **React Native** integrada con componentes nativos de Android para un rendimiento óptimo.
+* **Experiencia de Usuario (UX)**: Gestión de un flujo de personalización basado en intereses y objetivos específicos de salud mental.
+* **Sincronización de Contenido**: Entrega eficiente de sesiones de audio y seguimiento de progreso en tiempo real.
 
 ---
+
+## 📂 Estructura del Proyecto
+
+La aplicación se organiza en dos pilares fundamentales que gestionan la lógica y la interfaz:
+
+### 1. Lógica de Aplicación y Activos (`/resources`)
+
+Gestiona la configuración del sistema y la capa de lógica en JavaScript.
+
+* **`AndroidManifest.xml`**: Define la jerarquía de componentes, permisos de sistema y servicios de reproducción.
+* **`assets/index.android.bundle`**: El núcleo de la lógica de negocio desarrollado en React Native, que controla la navegación y el flujo de pantallas.
+* **`res/layout`**: Definiciones de interfaz para componentes nativos, incluyendo el **Widget de Frase Diaria** para la pantalla de inicio.
+
+### 2. Componentes Nativos (`/sources`)
+
+Contiene los módulos en Java/Kotlin que interactúan directamente con el hardware y servicios del dispositivo.
+
+* **Módulos de Autenticación**: Integración segura con Firebase, Google, Facebook y Amazon.
+* **Servicios de Multimedia**: Controladores nativos para asegurar que la meditación continúe de forma fluida con la pantalla apagada o en segundo plano.
+
+---
+
+## 🚀 Funcionalidades Core Identificadas
+
+* **Asistente de Bienestar Personalizado**: Sistema de diagnóstico inicial que segmenta al usuario según sus necesidades de sueño, estrés o enfoque, creando una ruta de aprendizaje única.
+* **Sistema de Notificaciones y Hábitos**: Uso de alarmas exactas y recordatorios programados para fomentar la constancia en la práctica de meditación.
+* **Widget Dinámico**: Extensión visual para la pantalla principal que ofrece frases motivacionales y acceso rápido a la aplicación.
+* **Gestión de Suscripciones**: Integración con **RevenueCat** para el manejo transparente de planes Premium y acceso a contenido exclusivo.
+
+## 🛠 Stack Tecnológico y Servicios
+
+* **Framework**: React Native (Android Nativo como puente).
+* **Análisis y Métricas**: **Amplitude** para el seguimiento del comportamiento del usuario y optimización de flujos.
+* **Soporte al Usuario**: Centro de ayuda y comunicación en vivo a través de **Intercom**.
+* **Infraestructura**: **Firebase** para notificaciones push y autenticación de cuentas.
+
+---
+
 *Última actualización: Febrero 2026*
